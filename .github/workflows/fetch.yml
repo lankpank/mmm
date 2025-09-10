@@ -1,0 +1,33 @@
+name: Fetch Roblox Servers
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 15 minutes
+  workflow_dispatch:          # manual run
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run fetch.py
+        run: python fetch.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add servers.json
+          git commit -m "Auto-update servers.json" || echo "No changes"
+          git push
