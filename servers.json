@@ -1,115 +1,5 @@
 [
   {
-    "id": "39789378-aea4-4e60-98e1-a120ff3bda38",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "81149A3A920BD09A9A3E35D1C9E98924"
-    ],
-    "players": [],
-    "fps": 57.881203,
-    "ping": 88
-  },
-  {
-    "id": "239506b8-af12-479d-b826-3bd39f45ae33",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "81C2B529719E1992975B1E2FEB1F1029"
-    ],
-    "players": [],
-    "fps": 59.986267,
-    "ping": 80
-  },
-  {
-    "id": "27373a9d-c06f-42f6-adb6-adf291714878",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "30E6AA19BB67B12235EBE39FED5D726D"
-    ],
-    "players": [],
-    "fps": 59.997944,
-    "ping": 23
-  },
-  {
-    "id": "86e37fff-e440-4f82-9497-a844e57c7c3c",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "04778FB8DC08C50BC50DB82CD28F5645"
-    ],
-    "players": [],
-    "fps": 59.986519,
-    "ping": 164
-  },
-  {
-    "id": "19ded039-252b-4999-8b4c-d9b21571c104",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "2BD870934A4967BDCFF6F10CF8AF9695"
-    ],
-    "players": [],
-    "fps": 59.99218,
-    "ping": 43
-  },
-  {
-    "id": "259307e9-47ef-4661-b2c2-ecd4e2810a22",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "B98512659B8AFC48BFCC43B785475800"
-    ],
-    "players": [],
-    "fps": 59.992928,
-    "ping": 51
-  },
-  {
-    "id": "0908b916-0e9e-4141-9367-399376a14c8b",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "B48374A9B670C02935C67665EB9AF9D2"
-    ],
-    "players": [],
-    "fps": 59.993809,
-    "ping": 152
-  },
-  {
-    "id": "1c97a11e-b0ba-4ce2-beb1-0241a692da01",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "2B07F19DA9B76CEBFDE93780026715D6"
-    ],
-    "players": [],
-    "fps": 60.00724,
-    "ping": 29
-  },
-  {
-    "id": "a7f308e5-d5df-484c-8ee4-9e1d837e0b39",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "997173357005A79C6187134A39E5D945"
-    ],
-    "players": [],
-    "fps": 59.989094,
-    "ping": 17
-  },
-  {
-    "id": "7fc7b6ef-c49f-4b02-8520-4ae5d9b6a0a6",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "48A181FDE93F4BF42D46E2E019397D4C"
-    ],
-    "players": [],
-    "fps": 59.996601,
-    "ping": 31
-  },
-  {
     "id": "cad5327b-87f6-4af4-826f-7d941fd6917e",
     "maxPlayers": 12,
     "playing": 1,
@@ -117,8 +7,8 @@
       "5232E93D8EAA94D27E2896F318528096"
     ],
     "players": [],
-    "fps": 59.986122,
-    "ping": 81
+    "fps": 59.990398,
+    "ping": 24
   },
   {
     "id": "ce1af05e-cef9-4ce4-9486-6bae3eefa020",
@@ -128,19 +18,8 @@
       "A6F9719716B5B45D54ACDF9F3454CDB5"
     ],
     "players": [],
-    "fps": 59.990067,
-    "ping": 65
-  },
-  {
-    "id": "b09f4024-5248-42d6-b5fa-9257eab3c3ed",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "07281454960AADE1052186E4BD42E0D6"
-    ],
-    "players": [],
-    "fps": 59.992363,
-    "ping": 95
+    "fps": 60.075932,
+    "ping": 52
   },
   {
     "id": "3049e38c-075b-4352-9b1d-ed9224874c2d",
@@ -150,8 +29,8 @@
       "2CA064ED5DD10781A21BCC3F3B9FE503"
     ],
     "players": [],
-    "fps": 59.985889,
-    "ping": 37
+    "fps": 60.000343,
+    "ping": 47
   },
   {
     "id": "94ef9599-65f5-4b66-9edc-068a5ccd5239",
@@ -161,41 +40,8 @@
       "A26D1B99858EADE876C7FBC8C65663EB"
     ],
     "players": [],
-    "fps": 59.985703,
-    "ping": 26
-  },
-  {
-    "id": "b3338820-4995-4aa5-99a5-92eb5a6ebd11",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "B15B5187B1E7D34E2E936083093F3CC3"
-    ],
-    "players": [],
-    "fps": 60.016373,
-    "ping": 20
-  },
-  {
-    "id": "7a70bbc9-f925-4177-a001-b8daff2b53f1",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "2C0225C09A93AEA146863405C883C751"
-    ],
-    "players": [],
-    "fps": 59.987133,
-    "ping": 196
-  },
-  {
-    "id": "f44d4e7b-54fd-4a25-9eab-88228366c045",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "1DFA3086C50DF090F854F7E1A03119B4"
-    ],
-    "players": [],
-    "fps": 59.998653,
-    "ping": 29
+    "fps": 59.998558,
+    "ping": 27
   },
   {
     "id": "73009517-3589-4958-8865-793acb9681df",
@@ -205,8 +51,41 @@
       "506FFB7C30A612D6993DE8F163F7C7EA"
     ],
     "players": [],
-    "fps": 59.997631,
-    "ping": 103
+    "fps": 59.994892,
+    "ping": 102
+  },
+  {
+    "id": "b3338820-4995-4aa5-99a5-92eb5a6ebd11",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "B15B5187B1E7D34E2E936083093F3CC3"
+    ],
+    "players": [],
+    "fps": 60.016739,
+    "ping": 23
+  },
+  {
+    "id": "7a70bbc9-f925-4177-a001-b8daff2b53f1",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "2C0225C09A93AEA146863405C883C751"
+    ],
+    "players": [],
+    "fps": 59.988934,
+    "ping": 80
+  },
+  {
+    "id": "f44d4e7b-54fd-4a25-9eab-88228366c045",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "1DFA3086C50DF090F854F7E1A03119B4"
+    ],
+    "players": [],
+    "fps": 59.996368,
+    "ping": 33
   },
   {
     "id": "dbfc0202-a771-4c73-96db-804b3a36ef0b",
@@ -216,19 +95,8 @@
       "64AA7E511AC750B78EC47FD7B9FBD315"
     ],
     "players": [],
-    "fps": 59.990646,
-    "ping": 69
-  },
-  {
-    "id": "8c53e0b9-35ad-4bac-b82f-e4883e03f20b",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "62A3144B9578A61D9DF464A9DAF7BE3A"
-    ],
-    "players": [],
-    "fps": 59.986015,
-    "ping": 86
+    "fps": 59.994774,
+    "ping": 38
   },
   {
     "id": "c9c2962a-168b-41f0-9607-72187454446d",
@@ -238,30 +106,8 @@
       "9366ECCCEC6EA659CFED4D4A39CEB61B"
     ],
     "players": [],
-    "fps": 59.962902,
+    "fps": 59.988342,
     "ping": 180
-  },
-  {
-    "id": "ef7147ca-1fc5-41a2-8080-44fd2b23ac21",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "A9A780C6B919E24CEA951E1FC2B8F143"
-    ],
-    "players": [],
-    "fps": 59.912117,
-    "ping": 13
-  },
-  {
-    "id": "cc7dae03-a5ce-469e-a679-997e902e62f8",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "FAEA365455E4039F233CBAD0C28DB90D"
-    ],
-    "players": [],
-    "fps": 59.987564,
-    "ping": 170
   },
   {
     "id": "584f1bad-d8bc-4e18-96cb-883ff68dfa2f",
@@ -271,8 +117,19 @@
       "80D6317CBA2150F2E9E0690E2B6A368B"
     ],
     "players": [],
-    "fps": 59.993977,
-    "ping": 76
+    "fps": 59.99395,
+    "ping": 81
+  },
+  {
+    "id": "ef7147ca-1fc5-41a2-8080-44fd2b23ac21",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "A9A780C6B919E24CEA951E1FC2B8F143"
+    ],
+    "players": [],
+    "fps": 59.990108,
+    "ping": 16
   },
   {
     "id": "624c8048-4407-46c9-ab51-c9bac78050f4",
@@ -282,8 +139,19 @@
       "E3C6F2637B9B8544D98BA37F7137255B"
     ],
     "players": [],
-    "fps": 60.000835,
-    "ping": 21
+    "fps": 59.864086,
+    "ping": 18
+  },
+  {
+    "id": "c01d4eb3-3b53-4b5b-8d1e-657da971af53",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "C3620D54ACCD8ECAC9E0EEB2380DBAFE"
+    ],
+    "players": [],
+    "fps": 59.994534,
+    "ping": 103
   },
   {
     "id": "78498290-0090-47db-bb66-27b231eed3d7",
@@ -293,8 +161,19 @@
       "71638D71605A9A66FB965995C37BB063"
     ],
     "players": [],
-    "fps": 59.985268,
-    "ping": 136
+    "fps": 59.983593,
+    "ping": 135
+  },
+  {
+    "id": "3c79b62a-9b15-4071-a7ca-48deead47146",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "97038411CADF3CEB0D0A9EDEE9971F81"
+    ],
+    "players": [],
+    "fps": 59.905575,
+    "ping": 128
   },
   {
     "id": "a0e78d5c-4ac2-4536-9548-f9bdf001859f",
@@ -304,8 +183,8 @@
       "AF9D29B18FBF0039DD05F281C6443D9C"
     ],
     "players": [],
-    "fps": 59.992363,
-    "ping": 57
+    "fps": 59.982292,
+    "ping": 115
   },
   {
     "id": "b1baf086-f13c-4f47-98e1-704e4b150b47",
@@ -315,8 +194,30 @@
       "60C0B48796D2CD16454DFF9A9775B3AB"
     ],
     "players": [],
-    "fps": 59.983795,
-    "ping": 31
+    "fps": 59.987194,
+    "ping": 35
+  },
+  {
+    "id": "6b0a8a38-e86a-4cae-8428-87c085daad6f",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "745B955F366E68142C986472347457D1"
+    ],
+    "players": [],
+    "fps": 59.994404,
+    "ping": 41
+  },
+  {
+    "id": "d2e55b15-1cb7-4756-b208-c8adffc88fa2",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "A0B0DBA48B77DE9304C790EB138FFEF3"
+    ],
+    "players": [],
+    "fps": 59.99081,
+    "ping": 928
   },
   {
     "id": "cf40d66f-5869-4cc9-a157-e6031e5334af",
@@ -326,19 +227,8 @@
       "26365B6E0A0F820DEECE9A25C3824F27"
     ],
     "players": [],
-    "fps": 59.98756,
-    "ping": 97
-  },
-  {
-    "id": "6add3aa5-dae8-4671-9abb-d5cb525e4d4a",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "D9F8EFD05783492227B8AB52D915B134"
-    ],
-    "players": [],
-    "fps": 59.997223,
-    "ping": 57
+    "fps": 59.988003,
+    "ping": 95
   },
   {
     "id": "3234747c-ddbd-475f-81dc-783860ba69ef",
@@ -348,8 +238,8 @@
       "9FA5AD495E15160213A0DDB136A56176"
     ],
     "players": [],
-    "fps": 59.992382,
-    "ping": 24
+    "fps": 59.993332,
+    "ping": 25
   },
   {
     "id": "018b0325-9c02-4a20-8def-73cfb7d00964",
@@ -359,8 +249,8 @@
       "7E39D8D775C04803B40DF17008432A04"
     ],
     "players": [],
-    "fps": 59.987312,
-    "ping": 34
+    "fps": 59.991547,
+    "ping": 35
   },
   {
     "id": "5e7c6ede-96f2-4c2c-a492-747084ae1cdc",
@@ -370,7 +260,7 @@
       "024C307549204259EA1947064535AB46"
     ],
     "players": [],
-    "fps": 59.991924,
+    "fps": 60.002319,
     "ping": 31
   },
   {
@@ -381,8 +271,19 @@
       "48401D86A9A09548D26D5D070AC832B2"
     ],
     "players": [],
-    "fps": 59.9879,
-    "ping": 92
+    "fps": 59.988567,
+    "ping": 109
+  },
+  {
+    "id": "9a1a186a-a0d5-4644-af23-ac3ab84c4a71",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "88FC1037EB93AF42320BD1730721CD87"
+    ],
+    "players": [],
+    "fps": 59.985767,
+    "ping": 29
   },
   {
     "id": "d2055a42-6237-44c7-98e8-86df8dfd02b0",
@@ -392,30 +293,8 @@
       "25AD5F0ED6FAB3264CF8672C01F5D873"
     ],
     "players": [],
-    "fps": 59.996922,
-    "ping": 140
-  },
-  {
-    "id": "17a6661d-aae3-433f-84ab-994e08bc88e9",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "A419517FDA3EB28C701F9FED72F4C0FD"
-    ],
-    "players": [],
-    "fps": 59.99263,
-    "ping": 42
-  },
-  {
-    "id": "e2eac30b-7820-4380-ab84-58d7cacd04c3",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "518EAF59F3650F0DB4EE16BA1071575E"
-    ],
-    "players": [],
-    "fps": 60.004814,
-    "ping": 37
+    "fps": 59.990051,
+    "ping": 135
   },
   {
     "id": "639d2e75-7834-4088-aca0-5aded7c403e3",
@@ -425,8 +304,19 @@
       "B5CE71A1484B55053E344A86A6EBC80E"
     ],
     "players": [],
-    "fps": 59.988129,
-    "ping": 38
+    "fps": 59.98922,
+    "ping": 39
+  },
+  {
+    "id": "e2eac30b-7820-4380-ab84-58d7cacd04c3",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "518EAF59F3650F0DB4EE16BA1071575E"
+    ],
+    "players": [],
+    "fps": 59.995396,
+    "ping": 22
   },
   {
     "id": "c350c055-d1f1-405d-8696-626eddd214ec",
@@ -436,19 +326,8 @@
       "F4589F8E4F056D21B3CB4A6E6DB72AAD"
     ],
     "players": [],
-    "fps": 59.984024,
-    "ping": 136
-  },
-  {
-    "id": "2950ccac-744d-40e8-b4aa-444d20465875",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "030F36E739C64E44D713A8B56AADA655"
-    ],
-    "players": [],
-    "fps": 59.988132,
-    "ping": 45
+    "fps": 59.990009,
+    "ping": 135
   },
   {
     "id": "24d2a20a-274f-4064-a491-a89761a79478",
@@ -458,8 +337,8 @@
       "A79F48C650DB079887D06A9FFAF7F650"
     ],
     "players": [],
-    "fps": 60.076984,
-    "ping": 44
+    "fps": 60.003578,
+    "ping": 42
   },
   {
     "id": "62209bb7-d128-4dec-a0bc-c23cf0f130a2",
@@ -469,19 +348,8 @@
       "B670367FE341A987A27946E76CDD6396"
     ],
     "players": [],
-    "fps": 60.018761,
+    "fps": 59.991207,
     "ping": 28
-  },
-  {
-    "id": "fea8d6f5-d11a-4e1d-a6c2-857c15584b6b",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "07F80209514AE05713C8C8677D765F6A"
-    ],
-    "players": [],
-    "fps": 59.984966,
-    "ping": 81
   },
   {
     "id": "7c6e10c9-1f02-4a11-8193-f3b0178d9407",
@@ -491,8 +359,19 @@
       "FEF7AE0C547310D411B1E3E6F1CB2DF5"
     ],
     "players": [],
-    "fps": 59.992878,
-    "ping": 32
+    "fps": 59.991589,
+    "ping": 30
+  },
+  {
+    "id": "fea8d6f5-d11a-4e1d-a6c2-857c15584b6b",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "07F80209514AE05713C8C8677D765F6A"
+    ],
+    "players": [],
+    "fps": 59.985397,
+    "ping": 107
   },
   {
     "id": "17c94f17-df73-4cd1-9757-c50219e37b67",
@@ -502,8 +381,19 @@
       "2F50D156FFA208749ABFC1DA4082617E"
     ],
     "players": [],
-    "fps": 59.996429,
-    "ping": 30
+    "fps": 59.989964,
+    "ping": 32
+  },
+  {
+    "id": "d72e6414-8949-41d7-b21d-627ad5804e6b",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "4ECFDCD21912FB999CF74D7C566E55A5"
+    ],
+    "players": [],
+    "fps": 59.870491,
+    "ping": 102
   },
   {
     "id": "524552a8-fa64-4558-8174-939a6e4052ab",
@@ -513,41 +403,41 @@
       "C9D5DE2B5D2A77E48D82461CD8C2CD30"
     ],
     "players": [],
-    "fps": 59.962471,
-    "ping": 26
+    "fps": 59.995693,
+    "ping": 30
   },
   {
-    "id": "527bd103-f1bf-4e81-bfa3-8466be292b5d",
+    "id": "a4117de5-0c31-494a-b832-6d25bf4542f8",
     "maxPlayers": 12,
     "playing": 1,
     "playerTokens": [
-      "AEDE3EF956CF7A216867B1D86E848A94"
+      "0856AF847D757690B803EB9E5F960ED1"
     ],
     "players": [],
-    "fps": 59.983845,
-    "ping": 58
+    "fps": 59.884182,
+    "ping": 36
   },
   {
-    "id": "24d62e7a-4de0-419a-81fe-eef17be281f5",
+    "id": "bb56885d-3b78-4ff1-9295-951dcaf26041",
     "maxPlayers": 12,
     "playing": 1,
     "playerTokens": [
-      "4FE09275F04BCCEF2349864FD48DA7E6"
+      "5B96B7D4B7055C3492F28C00FCC9A2F2"
     ],
     "players": [],
-    "fps": 59.990608,
-    "ping": 57
+    "fps": 59.982628,
+    "ping": 18
   },
   {
-    "id": "75e847b0-720c-4187-86da-36761c95c55f",
+    "id": "d35dc1c4-7271-4315-bd47-181567400d41",
     "maxPlayers": 12,
     "playing": 1,
     "playerTokens": [
-      "17AB52E99043BCF035C484FF3F677A82"
+      "D3DA92EFA25575BC606EABEE498AEFFD"
     ],
     "players": [],
-    "fps": 59.994179,
-    "ping": 74
+    "fps": 59.997337,
+    "ping": 121
   },
   {
     "id": "1e26e9cb-cfb3-4ad8-bec9-ae622fe15c7b",
@@ -557,7 +447,7 @@
       "CA6959D5D9CD2EE93986108C265EF912"
     ],
     "players": [],
-    "fps": 59.997353,
+    "fps": 59.997402,
     "ping": 23
   },
   {
@@ -568,19 +458,30 @@
       "43B79310699B75954B53743137D8233D"
     ],
     "players": [],
-    "fps": 59.98764,
-    "ping": 18
+    "fps": 59.985638,
+    "ping": 27
   },
   {
-    "id": "598ceaf2-6d3b-4072-b0ea-d39052e1d478",
+    "id": "b61b64e4-7beb-48e6-8982-83643ec56dab",
     "maxPlayers": 12,
     "playing": 1,
     "playerTokens": [
-      "33AAA73C9FF30F657A17A2964BD4E944"
+      "FB43F600DCFBE0AA05CDB61EB1EB4715"
     ],
     "players": [],
-    "fps": 59.992416,
-    "ping": 18
+    "fps": 59.990894,
+    "ping": 21
+  },
+  {
+    "id": "f94ce9f6-fa80-489e-a77b-605c5acea079",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "D70831A31C8375D7F2B882BD4A3CC720"
+    ],
+    "players": [],
+    "fps": 59.99086,
+    "ping": 69
   },
   {
     "id": "9ce0506f-4679-490b-81d7-2b8cea4a6914",
@@ -590,8 +491,8 @@
       "CFAC328A14A1B6822DEE5A0334997FE2"
     ],
     "players": [],
-    "fps": 59.995079,
-    "ping": 51
+    "fps": 59.995533,
+    "ping": 48
   },
   {
     "id": "71bb9d5f-b072-463d-9de6-403b3966cffc",
@@ -601,8 +502,8 @@
       "DA096DF03C1B3F3C0164E46F2D0AE8D2"
     ],
     "players": [],
-    "fps": 59.99609,
-    "ping": 8
+    "fps": 59.994381,
+    "ping": 9
   },
   {
     "id": "06cc6d21-57e6-4b46-9cdc-760ff54869f1",
@@ -612,8 +513,8 @@
       "3D7DA6F7D092EBA35562941D55BEADF9"
     ],
     "players": [],
-    "fps": 59.99575,
-    "ping": 228
+    "fps": 59.995419,
+    "ping": 229
   },
   {
     "id": "46d9764c-e34d-4673-bbf1-987c27e8d328",
@@ -623,19 +524,8 @@
       "141F97E6E96F4D8182EF10D4021DAB13"
     ],
     "players": [],
-    "fps": 60.078606,
-    "ping": 151
-  },
-  {
-    "id": "01778393-0898-4696-afbb-9005cb555aee",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "6EF283B9C0A84E62041AC91E3B472BFA"
-    ],
-    "players": [],
-    "fps": 59.996632,
-    "ping": 247
+    "fps": 59.992844,
+    "ping": 87
   },
   {
     "id": "de785a0c-5645-4cd9-8734-22dfd06a8277",
@@ -645,8 +535,19 @@
       "3BAA7C931B96E7E79702E0FDDBF04D7F"
     ],
     "players": [],
-    "fps": 59.991913,
+    "fps": 59.9841,
     "ping": 7
+  },
+  {
+    "id": "01778393-0898-4696-afbb-9005cb555aee",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "6EF283B9C0A84E62041AC91E3B472BFA"
+    ],
+    "players": [],
+    "fps": 59.98687,
+    "ping": 256
   },
   {
     "id": "ca5d889e-679b-4ca7-b937-f8155d38dbbc",
@@ -656,7 +557,7 @@
       "BBF4AE920A2CD6976D7F9B640C539CF1"
     ],
     "players": [],
-    "fps": 59.99086,
+    "fps": 59.988918,
     "ping": 10
   },
   {
@@ -667,8 +568,8 @@
       "0208BE2F637C072D65CD26E9B6E35A31"
     ],
     "players": [],
-    "fps": 59.991142,
-    "ping": 26
+    "fps": 59.997643,
+    "ping": 27
   },
   {
     "id": "ed320681-7fec-4f11-bc6f-957dad09a49b",
@@ -678,8 +579,8 @@
       "55E3675EDC6D958219C66A175BF53051"
     ],
     "players": [],
-    "fps": 59.998009,
-    "ping": 52
+    "fps": 59.996243,
+    "ping": 49
   },
   {
     "id": "1d713910-cfc8-433c-b7f8-449ddf74e10e",
@@ -689,8 +590,8 @@
       "372F16B7031967B7E394CE0F7C7D906A"
     ],
     "players": [],
-    "fps": 59.987823,
-    "ping": 231
+    "fps": 59.991856,
+    "ping": 266
   },
   {
     "id": "239b7238-fb69-4d9f-9f70-eeccb820474a",
@@ -700,8 +601,8 @@
       "F2EA66E47B5026912B70F4D6319A086F"
     ],
     "players": [],
-    "fps": 59.990505,
-    "ping": 14
+    "fps": 59.997952,
+    "ping": 17
   },
   {
     "id": "452a726e-c73d-4211-8e10-a8fca1e19562",
@@ -711,8 +612,19 @@
       "7541C7FCE5D5F4AF97F3003E6212225C"
     ],
     "players": [],
-    "fps": 59.985348,
+    "fps": 59.996574,
     "ping": 16
+  },
+  {
+    "id": "424e9cf7-e004-4e2f-b2a5-f302c14a442e",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "E1BC473D8DAEFCB37C81579DBDCE182E"
+    ],
+    "players": [],
+    "fps": 60.003914,
+    "ping": 28
   },
   {
     "id": "847398d1-f374-40b7-9d89-17f72c245301",
@@ -722,8 +634,8 @@
       "2E76AA5CB40ACFF7AF3830C8D1DDC94F"
     ],
     "players": [],
-    "fps": 59.98703,
-    "ping": 41
+    "fps": 59.990608,
+    "ping": 43
   },
   {
     "id": "2c621069-dd55-43e5-8941-02cfd7f42b9a",
@@ -733,8 +645,8 @@
       "0A8FAA0B953C3C18A7EA365CF41DBF03"
     ],
     "players": [],
-    "fps": 60.001831,
-    "ping": 28
+    "fps": 59.980984,
+    "ping": 33
   },
   {
     "id": "f1c88036-0402-4100-bb27-39e9fd9dcebc",
@@ -744,8 +656,8 @@
       "81521888FAEAF16698E68BFF4503F435"
     ],
     "players": [],
-    "fps": 59.999828,
-    "ping": 71
+    "fps": 59.993328,
+    "ping": 86
   },
   {
     "id": "b77fde87-2752-423d-95ea-398696a237ba",
@@ -755,8 +667,8 @@
       "7DC559ECFE7FBE40DC75665DA76ADAD9"
     ],
     "players": [],
-    "fps": 59.882107,
-    "ping": 168
+    "fps": 59.998241,
+    "ping": 523
   },
   {
     "id": "09d6a407-95e8-4ab2-b492-284e10067c39",
@@ -766,19 +678,8 @@
       "AA905BC153DE7C333222E36C7CB4C272"
     ],
     "players": [],
-    "fps": 59.986172,
+    "fps": 59.99514,
     "ping": 6
-  },
-  {
-    "id": "500dcf18-d97f-44ac-b9db-41e586c60bca",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "3F0EEB6D8F34BA55CD937BC110BA824C"
-    ],
-    "players": [],
-    "fps": 59.980339,
-    "ping": 84
   },
   {
     "id": "e6876877-ef71-4a3e-a4f3-3f7ece11f962",
@@ -788,30 +689,8 @@
       "4FAA6CCEC8CE57C7B795DF1095FC669E"
     ],
     "players": [],
-    "fps": 59.990513,
-    "ping": 83
-  },
-  {
-    "id": "294c3411-8abc-43f3-8d8a-67a2475afaab",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "F602567347C9803B6D6444DF7622A521"
-    ],
-    "players": [],
-    "fps": 59.983639,
-    "ping": 81
-  },
-  {
-    "id": "14914d47-def8-4685-9325-17502cefb967",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "4363B0D611E588715D381491CE2F49A3"
-    ],
-    "players": [],
-    "fps": 59.994892,
-    "ping": 189
+    "fps": 59.994221,
+    "ping": 82
   },
   {
     "id": "6438d823-85f1-4f5f-b5eb-68be7731e27b",
@@ -821,19 +700,8 @@
       "7DB2128B8069F294F0C938953E399B61"
     ],
     "players": [],
-    "fps": 59.995102,
-    "ping": 48
-  },
-  {
-    "id": "e2821f80-a16a-4308-8e39-e5ed861fea17",
-    "maxPlayers": 12,
-    "playing": 1,
-    "playerTokens": [
-      "57462BE93A0ABE2206BA190D671C668F"
-    ],
-    "players": [],
-    "fps": 59.990761,
-    "ping": 29
+    "fps": 59.993767,
+    "ping": 40
   },
   {
     "id": "62c75a2f-739b-4e87-bdf3-e3c97f1a7144",
@@ -843,8 +711,8 @@
       "27F155F75F998C73CA3C6A823E8466D4"
     ],
     "players": [],
-    "fps": 59.988983,
-    "ping": 30
+    "fps": 59.989006,
+    "ping": 33
   },
   {
     "id": "7898737c-e0c0-40f9-b4ff-faba564b5b5b",
@@ -854,7 +722,7 @@
       "545B6C845076CBF56279D686A14D98CD"
     ],
     "players": [],
-    "fps": 59.986931,
+    "fps": 59.98642,
     "ping": 11
   },
   {
@@ -865,8 +733,8 @@
       "58964915A4F59AC526255074B85C0A8B"
     ],
     "players": [],
-    "fps": 59.99073,
-    "ping": 96
+    "fps": 59.99263,
+    "ping": 121
   },
   {
     "id": "1af564e4-ab95-4fa3-9bce-13d144b68648",
@@ -876,8 +744,8 @@
       "3FA61630DC41B4B2CEF45F8F0006FD8D"
     ],
     "players": [],
-    "fps": 60.106773,
-    "ping": 78
+    "fps": 59.990253,
+    "ping": 77
   },
   {
     "id": "eaae5c5c-82b4-44f0-a332-99234a40ab5c",
@@ -887,7 +755,7 @@
       "2E34791D9F9F7DDB391C5145045120DB"
     ],
     "players": [],
-    "fps": 59.995213,
+    "fps": 59.997158,
     "ping": 26
   },
   {
@@ -898,8 +766,19 @@
       "9EEB21D5E27FB78E247B802D02F311EB"
     ],
     "players": [],
-    "fps": 59.998936,
-    "ping": 25
+    "fps": 59.995773,
+    "ping": 33
+  },
+  {
+    "id": "14c9891f-a2f0-4529-a72e-ac905192858f",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "0C9577B34581F4B25E23D3EA0DF80BAD"
+    ],
+    "players": [],
+    "fps": 59.990772,
+    "ping": 247
   },
   {
     "id": "3f5d7d9c-5b9b-4243-996c-9c7bcdad80e6",
@@ -909,8 +788,8 @@
       "F87D42CB6F47CDDE7AD087D24DFDE3C5"
     ],
     "players": [],
-    "fps": 60.024353,
-    "ping": 49
+    "fps": 59.992908,
+    "ping": 50
   },
   {
     "id": "a7b692f6-2635-4ee5-8966-449b28101f0d",
@@ -920,8 +799,8 @@
       "27E17CC20A3F9253BE0B7A1428FB7786"
     ],
     "players": [],
-    "fps": 59.993141,
-    "ping": 174
+    "fps": 59.991951,
+    "ping": 107
   },
   {
     "id": "bbc4ebe8-5ab0-4dfa-9b53-e8f0e5873c45",
@@ -931,8 +810,19 @@
       "BDBEFEE851950408311CDFE3B72B8408"
     ],
     "players": [],
-    "fps": 59.992817,
+    "fps": 59.994141,
     "ping": 25
+  },
+  {
+    "id": "f8ff79b0-d68d-4bac-8cf5-4ae7b0049232",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "64CF319DF388D5EFCFC744AFBE07C56E"
+    ],
+    "players": [],
+    "fps": 59.989738,
+    "ping": 81
   },
   {
     "id": "339472b2-c126-415a-8590-b23c3c12c253",
@@ -942,19 +832,19 @@
       "F6C40EFA132AA3EF5ACC7D8B92BE3190"
     ],
     "players": [],
-    "fps": 59.983364,
-    "ping": 31
+    "fps": 59.992039,
+    "ping": 25
   },
   {
-    "id": "9c844ca4-310d-4f42-9bb1-ad556b89bbe1",
+    "id": "8bf8bf20-e4dd-4cc9-be80-8719aa62eb2c",
     "maxPlayers": 12,
     "playing": 1,
     "playerTokens": [
-      "47C44847B14674F45EB5A4BB5C1BFD12"
+      "D8C391780AC5375E5AB552F59751CFDD"
     ],
     "players": [],
-    "fps": 59.989502,
-    "ping": 56
+    "fps": 59.990398,
+    "ping": 36
   },
   {
     "id": "3b15337d-7efa-4d7d-98db-d0d97bec3beb",
@@ -964,8 +854,8 @@
       "402DE770F863719B7EB65023EB9BF719"
     ],
     "players": [],
-    "fps": 59.987637,
-    "ping": 124
+    "fps": 59.982742,
+    "ping": 229
   },
   {
     "id": "922f6d06-e4ed-4e0e-aab5-14c0039d54f7",
@@ -975,104 +865,96 @@
       "C44210192FDBDD364A470758FAE90BCC"
     ],
     "players": [],
-    "fps": 59.989353,
-    "ping": 14
+    "fps": 59.989994,
+    "ping": 21
+  },
+  {
+    "id": "39789378-aea4-4e60-98e1-a120ff3bda38",
+    "maxPlayers": 12,
+    "playing": 1,
+    "playerTokens": [
+      "64CF319DF388D5EFCFC744AFBE07C56E"
+    ],
+    "players": [],
+    "fps": 59.984226,
+    "ping": 90
   },
   {
     "id": "918fb859-7384-4d21-9da2-b826cb99fe86",
     "maxPlayers": 12,
-    "playing": 2,
+    "playing": 1,
     "playerTokens": [
-      "0DA969FC195140E81C19DD1CB4C2BE1A",
-      "8BBB66691520EC72591F5B89EB8796CF"
+      "0DA969FC195140E81C19DD1CB4C2BE1A"
     ],
     "players": [],
-    "fps": 59.98888,
-    "ping": 99
-  },
-  {
-    "id": "fc2035c5-f058-4932-935a-9d734cc7596b",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "980DD047873CD9800D20CDE5F9EA4F35",
-      "9E5066A579E680BB69D5A71A4CE9A5D1"
-    ],
-    "players": [],
-    "fps": 60.077362,
+    "fps": 59.993225,
     "ping": 137
   },
   {
-    "id": "ea5476ef-98e8-46a1-8458-b5248f46548b",
+    "id": "86e37fff-e440-4f82-9497-a844e57c7c3c",
     "maxPlayers": 12,
-    "playing": 2,
+    "playing": 1,
     "playerTokens": [
-      "1E1F523D98CE8EEA27933A90726A7A46",
-      "47436132533C69CE8F6FC290C6D53F5C"
+      "04778FB8DC08C50BC50DB82CD28F5645"
     ],
     "players": [],
-    "fps": 59.994648,
-    "ping": 79
+    "fps": 59.990723,
+    "ping": 134
   },
   {
-    "id": "36f38dd2-7b46-442b-99ae-e2cf39d4764a",
+    "id": "19ded039-252b-4999-8b4c-d9b21571c104",
     "maxPlayers": 12,
-    "playing": 2,
+    "playing": 1,
     "playerTokens": [
-      "613A2A43A9BF3398F0EEEE257BE5DAD9",
-      "35CB34C61181F48B12A937618922D0DB"
+      "2BD870934A4967BDCFF6F10CF8AF9695"
     ],
     "players": [],
-    "fps": 59.99992,
-    "ping": 26
+    "fps": 59.992268,
+    "ping": 41
   },
   {
-    "id": "31715cab-ff24-4464-86c6-3fbd1848a31a",
+    "id": "259307e9-47ef-4661-b2c2-ecd4e2810a22",
     "maxPlayers": 12,
-    "playing": 2,
+    "playing": 1,
     "playerTokens": [
-      "184AD663C984887F4F9291DB4FE598AC",
-      "824B1CF74A2651112994877324DC8A32"
+      "B98512659B8AFC48BFCC43B785475800"
     ],
     "players": [],
-    "fps": 59.984818,
-    "ping": 69
+    "fps": 59.990021,
+    "ping": 45
   },
   {
-    "id": "de05fbcd-6b1d-4320-91b8-1f07c2d679cb",
+    "id": "0908b916-0e9e-4141-9367-399376a14c8b",
     "maxPlayers": 12,
-    "playing": 2,
+    "playing": 1,
     "playerTokens": [
-      "A31DF7C562781EED124555FA6440DDA2",
-      "6DBDC517B8BEF233D1EBBA5E33C0401B"
+      "B48374A9B670C02935C67665EB9AF9D2"
     ],
     "players": [],
-    "fps": 59.980537,
-    "ping": 33
+    "fps": 59.993984,
+    "ping": 155
   },
   {
-    "id": "35564fbb-7bd2-41a8-ba80-14a934a2f719",
+    "id": "1c97a11e-b0ba-4ce2-beb1-0241a692da01",
     "maxPlayers": 12,
-    "playing": 2,
+    "playing": 1,
     "playerTokens": [
-      "59BD671051762DD619EC1F92B11645BF",
-      "75F1403B9138DA8618233BFE9683FC49"
+      "2B07F19DA9B76CEBFDE93780026715D6"
     ],
     "players": [],
-    "fps": 59.999432,
-    "ping": 30
+    "fps": 59.985714,
+    "ping": 29
   },
   {
-    "id": "544d7b23-6993-4def-9956-6cd287aad337",
+    "id": "7fc7b6ef-c49f-4b02-8520-4ae5d9b6a0a6",
     "maxPlayers": 12,
-    "playing": 2,
+    "playing": 1,
     "playerTokens": [
-      "DC440A9E2235D4D17E8A0D128759BA7E",
-      "98380959D2079F650D53A1FB8D59C90A"
+      "48A181FDE93F4BF42D46E2E019397D4C"
     ],
     "players": [],
-    "fps": 59.992107,
-    "ping": 30
+    "fps": 59.991997,
+    "ping": 32
   },
   {
     "id": "60441538-033e-4651-baa4-633380775093",
@@ -1083,20 +965,56 @@
       "FD51D9F6733D7028F563346C6E0AF5A4"
     ],
     "players": [],
-    "fps": 59.979897,
-    "ping": 110
+    "fps": 60.040962,
+    "ping": 111
+  },
+  {
+    "id": "878ab624-ca1d-4638-b24e-cf9e735e0a6e",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "B28B59437DB538DAB2B81CBCD57EB256",
+      "32931AF5EE76E71170AEBAE9887EF290"
+    ],
+    "players": [],
+    "fps": 59.98822,
+    "ping": 131
+  },
+  {
+    "id": "b559228b-61a7-4034-915e-4d61d0dea9d6",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "81149A3A920BD09A9A3E35D1C9E98924",
+      "96654075328E028A4BE22ACC7C2713C2"
+    ],
+    "players": [],
+    "fps": 59.99614,
+    "ping": 80
+  },
+  {
+    "id": "dac98b98-85bb-43cc-9f25-5ba4d134dd77",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "3C1935C3DC567400AAB56DC99FC659E4",
+      "7B44B3F7C675B05154366C5C357EAF72"
+    ],
+    "players": [],
+    "fps": 59.995434,
+    "ping": 98
   },
   {
     "id": "64cb7bb3-3e4d-42e8-b90a-6b8842b23979",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "4744C1E0F631A0DED9ACEC5E5B0AC243",
-      "7CF986FABEDB67DF004B0EC92D3FF098"
+      "7CF986FABEDB67DF004B0EC92D3FF098",
+      "4744C1E0F631A0DED9ACEC5E5B0AC243"
     ],
     "players": [],
-    "fps": 59.994881,
-    "ping": 29
+    "fps": 59.990852,
+    "ping": 226
   },
   {
     "id": "dc47b198-8a6f-40fb-aebc-012e6a4b1cbb",
@@ -1107,8 +1025,8 @@
       "188DEF2948B376D65A34D5C5E309DD52"
     ],
     "players": [],
-    "fps": 59.99276,
-    "ping": 15
+    "fps": 59.990772,
+    "ping": 16
   },
   {
     "id": "79a58d05-442a-422d-a2d3-846ee1ecede4",
@@ -1119,8 +1037,8 @@
       "077F0C79B1D26B67711D780A22371AB4"
     ],
     "players": [],
-    "fps": 59.97699,
-    "ping": 70
+    "fps": 59.985039,
+    "ping": 68
   },
   {
     "id": "ebf23f83-a754-45ea-9d42-94280b847671",
@@ -1131,8 +1049,8 @@
       "3C2476677A32692E36DF328555215E69"
     ],
     "players": [],
-    "fps": 59.977501,
-    "ping": 98
+    "fps": 59.995884,
+    "ping": 100
   },
   {
     "id": "bc6e5d76-3429-41cc-a0b3-4b84146c8375",
@@ -1143,44 +1061,32 @@
       "8FD549B23AF680A9E70CFA37B0189200"
     ],
     "players": [],
-    "fps": 59.992363,
-    "ping": 40
+    "fps": 59.987617,
+    "ping": 48
   },
   {
-    "id": "c01d4eb3-3b53-4b5b-8d1e-657da971af53",
+    "id": "d33a5b1d-239e-4a15-8193-8c92754c9e7e",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "C3620D54ACCD8ECAC9E0EEB2380DBAFE",
-      "1C88CEE240D1234A419EA0104DF288D7"
+      "8B123C1B5A3B9068BECAF2C639356732",
+      "D2BB808902A51D5F32BEBDBA64932570"
     ],
     "players": [],
-    "fps": 59.991043,
-    "ping": 235
-  },
-  {
-    "id": "3c79b62a-9b15-4071-a7ca-48deead47146",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "11A91A98F8030965F0E1EBF73EF659C7",
-      "97038411CADF3CEB0D0A9EDEE9971F81"
-    ],
-    "players": [],
-    "fps": 59.995968,
-    "ping": 101
+    "fps": 59.996502,
+    "ping": 18
   },
   {
     "id": "977d6480-51f3-41be-820f-3107d943da1d",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "A5984EEF2A988CE41CABF800C52B5A45",
-      "59D8A399A7CA3A15C1B95C6E9E6601B9"
+      "59D8A399A7CA3A15C1B95C6E9E6601B9",
+      "A5984EEF2A988CE41CABF800C52B5A45"
     ],
     "players": [],
-    "fps": 59.99736,
-    "ping": 138
+    "fps": 59.998001,
+    "ping": 127
   },
   {
     "id": "4b09e1c9-c3b9-4541-98fd-07b8da458de6",
@@ -1191,20 +1097,8 @@
       "B14205F4A72682C60AB5FE7D43325375"
     ],
     "players": [],
-    "fps": 59.98933,
-    "ping": 68
-  },
-  {
-    "id": "6b0a8a38-e86a-4cae-8428-87c085daad6f",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "CECC91E2DA944CFF9F46A51CACE5A444",
-      "745B955F366E68142C986472347457D1"
-    ],
-    "players": [],
-    "fps": 59.993439,
-    "ping": 77
+    "fps": 59.990265,
+    "ping": 70
   },
   {
     "id": "a6c4315c-f199-48c2-ae70-e14cf19595df",
@@ -1215,248 +1109,20 @@
       "BF581FD184D2FE58BA668B510A9DB84A"
     ],
     "players": [],
-    "fps": 59.988472,
-    "ping": 108
-  },
-  {
-    "id": "350a3d3a-451b-4c06-8f5d-ef840c31c478",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "4ECFDCD21912FB999CF74D7C566E55A5",
-      "92DBF5056C2FD9B4D61BD0E7562A873C"
-    ],
-    "players": [],
-    "fps": 59.996807,
-    "ping": 131
-  },
-  {
-    "id": "9882399e-e661-423d-9a7d-c1d3f0ade277",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "524C013BB898E2D7782390F96B0CDA79",
-      "3DF928A61B1EF993C07CE757142A11A5"
-    ],
-    "players": [],
-    "fps": 59.992439,
+    "fps": 59.999489,
     "ping": 85
   },
   {
-    "id": "8f4a7b7b-c053-4a7e-83fd-a54d6215c27d",
+    "id": "65e5eff3-7c80-4d77-9136-b65d37837dd6",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "67B770AA8075E8D92A2444276C4606C7",
-      "72AD3BDCD0F4E0810DF84DE6F5E90374"
+      "30D533AC097FC23AD16EF155997ED77F",
+      "D51516EAF63D0AB3BE965FE965D94293"
     ],
     "players": [],
-    "fps": 59.992363,
-    "ping": 206
-  },
-  {
-    "id": "9a1a186a-a0d5-4644-af23-ac3ab84c4a71",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "88FC1037EB93AF42320BD1730721CD87",
-      "4A8FD13E400AED17E4CBCCFDAF792E78"
-    ],
-    "players": [],
-    "fps": 59.990154,
-    "ping": 57
-  },
-  {
-    "id": "15385f2f-a362-4d9c-a7fe-8a0796d9685c",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "20A62F8DBD92B50FF686003E3E30F1D9",
-      "D7644634618B8F6E32C97563073A0A5A"
-    ],
-    "players": [],
-    "fps": 59.993702,
-    "ping": 141
-  },
-  {
-    "id": "531cc90a-0d09-45a6-862e-c2a6ef376c2b",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "8F67DE28DD16C0462580AF6B6E5B45A3",
-      "BD2DFCC6AE6CEA9ACC13C69E784B5310"
-    ],
-    "players": [],
-    "fps": 59.987297,
-    "ping": 336
-  },
-  {
-    "id": "4c42975f-6ac3-475a-922b-cdeb95aa94c0",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "0AF0F24C885FC59FE8A07D10AD84C465",
-      "9DE47CFDAC50396C5A064A9B863745E2"
-    ],
-    "players": [],
-    "fps": 59.979626,
-    "ping": 117
-  },
-  {
-    "id": "2112e1a1-fdf5-46e9-9c77-e7b99bfa4a97",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "091C1461919B35AC64F9470069657357",
-      "BB7B7F14A7699B7D820FBB89FCF4B1EF"
-    ],
-    "players": [],
-    "fps": 59.993103,
-    "ping": 160
-  },
-  {
-    "id": "37bd4573-bd50-4e00-a090-98c8c6826484",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "D882F2623EAFDF9772CE01091B2A0220",
-      "291FC411F8A94C4AB55E74C84CDF599C"
-    ],
-    "players": [],
-    "fps": 59.996254,
-    "ping": 50
-  },
-  {
-    "id": "a14fcf2a-34ae-4594-9556-efa931128e72",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "2ECCB10E2FE1B3E7210E5B894C499EB0",
-      "A91675240FD44574508DF282BA7683BC"
-    ],
-    "players": [],
-    "fps": 59.996475,
-    "ping": 56
-  },
-  {
-    "id": "4a0181ee-2dd2-4399-89e2-51bb4245a82d",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "BD965FACEB2E1FA3C4085A8034FCE55A",
-      "F241655FFCB425CDCB6D26D3E0C90F30"
-    ],
-    "players": [],
-    "fps": 59.991474,
-    "ping": 20
-  },
-  {
-    "id": "2d15ae5a-05c6-4b4a-907c-899c93f2c9d9",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "3697295DA690817ACC6275F1FDF940C6",
-      "F031CE4B84280966B88370B536A37CFF"
-    ],
-    "players": [],
-    "fps": 59.988144,
-    "ping": 20
-  },
-  {
-    "id": "ba35aa8f-d185-49d8-94ff-1410485aa74f",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "EF660FC83645A066E5AA34114A00D810",
-      "467CC40D054EE521D86100026C82936E"
-    ],
-    "players": [],
-    "fps": 59.985695,
-    "ping": 83
-  },
-  {
-    "id": "878ab624-ca1d-4638-b24e-cf9e735e0a6e",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "D3BB81BCE5C904DE2A7772CF3B295FD9",
-      "32931AF5EE76E71170AEBAE9887EF290"
-    ],
-    "players": [],
-    "fps": 59.990128,
-    "ping": 158
-  },
-  {
-    "id": "d72e6414-8949-41d7-b21d-627ad5804e6b",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "53B9BD405C804137B4D9D5AC37FBB123",
-      "E04EC027BE81346A05BADDD9BEA46538"
-    ],
-    "players": [],
-    "fps": 59.98761,
-    "ping": 127
-  },
-  {
-    "id": "ee4e8baf-3896-4fbd-bad2-e628715754f1",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "0722D6D74B14D2CF2C5957EA718F0253",
-      "A0B17BA50B4B5E76FB6C2C3C91DFC589"
-    ],
-    "players": [],
-    "fps": 60.061714,
-    "ping": 56
-  },
-  {
-    "id": "b559228b-61a7-4034-915e-4d61d0dea9d6",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "4ECFDCD21912FB999CF74D7C566E55A5",
-      "96654075328E028A4BE22ACC7C2713C2"
-    ],
-    "players": [],
-    "fps": 59.98698,
-    "ping": 79
-  },
-  {
-    "id": "bb56885d-3b78-4ff1-9295-951dcaf26041",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "347DD213978568B48A3143C6EFF38A26",
-      "5B96B7D4B7055C3492F28C00FCC9A2F2"
-    ],
-    "players": [],
-    "fps": 60.084034,
-    "ping": 75
-  },
-  {
-    "id": "1652c78b-229f-4e81-ae18-55b51afb617f",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "64D5515240ECB3289860D9462E3E4A73",
-      "1D4129A0A31BB04DD28D10325D72529B"
-    ],
-    "players": [],
-    "fps": 59.867966,
-    "ping": 120
-  },
-  {
-    "id": "d35dc1c4-7271-4315-bd47-181567400d41",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "D3DA92EFA25575BC606EABEE498AEFFD",
-      "6719F8CB49002C2FFA42123FF92EDBC0"
-    ],
-    "players": [],
-    "fps": 59.989285,
-    "ping": 73
+    "fps": 59.982044,
+    "ping": 24
   },
   {
     "id": "eda033c3-ffee-40d0-885b-3ce5583a5dac",
@@ -1467,8 +1133,260 @@
       "4DF801DE1DF6C93E935229E9C1CC588A"
     ],
     "players": [],
-    "fps": 59.964851,
-    "ping": 359
+    "fps": 59.99614,
+    "ping": 174
+  },
+  {
+    "id": "9882399e-e661-423d-9a7d-c1d3f0ade277",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "3DF928A61B1EF993C07CE757142A11A5",
+      "524C013BB898E2D7782390F96B0CDA79"
+    ],
+    "players": [],
+    "fps": 59.992298,
+    "ping": 92
+  },
+  {
+    "id": "1652c78b-229f-4e81-ae18-55b51afb617f",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "1D4129A0A31BB04DD28D10325D72529B",
+      "64D5515240ECB3289860D9462E3E4A73"
+    ],
+    "players": [],
+    "fps": 59.990948,
+    "ping": 92
+  },
+  {
+    "id": "2ac94348-c558-4ab6-8203-6ffde832d222",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "28DC2B47E4D0C399F6CFF8D476B05649",
+      "1E125FCE4FB0F5C82543936226002580"
+    ],
+    "players": [],
+    "fps": 59.873932,
+    "ping": 32
+  },
+  {
+    "id": "15385f2f-a362-4d9c-a7fe-8a0796d9685c",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "D7644634618B8F6E32C97563073A0A5A",
+      "20A62F8DBD92B50FF686003E3E30F1D9"
+    ],
+    "players": [],
+    "fps": 59.98959,
+    "ping": 134
+  },
+  {
+    "id": "52374d47-169f-4266-a323-9d3daccb2b48",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "4F2FFC79C9B39516581FE15DF16FE6A3",
+      "3A4E78119D0DEC77B23A45C8B1D23A52"
+    ],
+    "players": [],
+    "fps": 59.967239,
+    "ping": 24
+  },
+  {
+    "id": "531cc90a-0d09-45a6-862e-c2a6ef376c2b",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "BD2DFCC6AE6CEA9ACC13C69E784B5310",
+      "8F67DE28DD16C0462580AF6B6E5B45A3"
+    ],
+    "players": [],
+    "fps": 59.98093,
+    "ping": 709
+  },
+  {
+    "id": "a2cb724a-563d-4987-8883-b255dc722ca3",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "C8D774369EB42DC47077AB7984157626",
+      "DF73504A4C80BA4F5E899A77C2DEF4F5"
+    ],
+    "players": [],
+    "fps": 59.885963,
+    "ping": 22
+  },
+  {
+    "id": "9b2ad356-9c86-4ac2-b617-a14463f64ade",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "688F56080457535A5C138E82400CEFF0",
+      "1139BEC75C7CEFC33802CE6C60AF92E7"
+    ],
+    "players": [],
+    "fps": 59.991726,
+    "ping": 55
+  },
+  {
+    "id": "527bd103-f1bf-4e81-bfa3-8466be292b5d",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "AEDE3EF956CF7A216867B1D86E848A94",
+      "91202E46EC1C7F954C95728ACA0FD8D7"
+    ],
+    "players": [],
+    "fps": 60.001896,
+    "ping": 41
+  },
+  {
+    "id": "b33b8b66-a79d-4b4b-9fbf-6b993861f937",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "0722D6D74B14D2CF2C5957EA718F0253",
+      "B474CE462BE1DE143CAE123BE351DB71"
+    ],
+    "players": [],
+    "fps": 59.983017,
+    "ping": 55
+  },
+  {
+    "id": "4c42975f-6ac3-475a-922b-cdeb95aa94c0",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "9DE47CFDAC50396C5A064A9B863745E2",
+      "0AF0F24C885FC59FE8A07D10AD84C465"
+    ],
+    "players": [],
+    "fps": 59.988991,
+    "ping": 112
+  },
+  {
+    "id": "24d62e7a-4de0-419a-81fe-eef17be281f5",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "4FE09275F04BCCEF2349864FD48DA7E6",
+      "CF2D213DC7B7153E20CE3341710B7B41"
+    ],
+    "players": [],
+    "fps": 59.98864,
+    "ping": 63
+  },
+  {
+    "id": "37bd4573-bd50-4e00-a090-98c8c6826484",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "D882F2623EAFDF9772CE01091B2A0220",
+      "291FC411F8A94C4AB55E74C84CDF599C"
+    ],
+    "players": [],
+    "fps": 59.99604,
+    "ping": 58
+  },
+  {
+    "id": "a14fcf2a-34ae-4594-9556-efa931128e72",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "2ECCB10E2FE1B3E7210E5B894C499EB0",
+      "A91675240FD44574508DF282BA7683BC"
+    ],
+    "players": [],
+    "fps": 59.990665,
+    "ping": 66
+  },
+  {
+    "id": "4a0181ee-2dd2-4399-89e2-51bb4245a82d",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "F241655FFCB425CDCB6D26D3E0C90F30",
+      "BD965FACEB2E1FA3C4085A8034FCE55A"
+    ],
+    "players": [],
+    "fps": 59.990551,
+    "ping": 23
+  },
+  {
+    "id": "ba35aa8f-d185-49d8-94ff-1410485aa74f",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "467CC40D054EE521D86100026C82936E",
+      "EF660FC83645A066E5AA34114A00D810"
+    ],
+    "players": [],
+    "fps": 59.990723,
+    "ping": 83
+  },
+  {
+    "id": "21208380-4568-48a7-9d65-852049db0c87",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "2D94B720C0F4055CCD7D1C65463A15BB",
+      "7899D008321FDDE75B74667B0F54EAE7"
+    ],
+    "players": [],
+    "fps": 59.989655,
+    "ping": 118
+  },
+  {
+    "id": "2d15ae5a-05c6-4b4a-907c-899c93f2c9d9",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "3697295DA690817ACC6275F1FDF940C6",
+      "F031CE4B84280966B88370B536A37CFF"
+    ],
+    "players": [],
+    "fps": 59.995708,
+    "ping": 18
+  },
+  {
+    "id": "ee4e8baf-3896-4fbd-bad2-e628715754f1",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "0722D6D74B14D2CF2C5957EA718F0253",
+      "A0B17BA50B4B5E76FB6C2C3C91DFC589"
+    ],
+    "players": [],
+    "fps": 59.995888,
+    "ping": 25
+  },
+  {
+    "id": "616e4bc6-9279-4daa-b359-c8c3231c837e",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "19CC29495680D0135D97F307D5FDD41E",
+      "F2124875D718BFC29CB504B891A375B9"
+    ],
+    "players": [],
+    "fps": 59.989479,
+    "ping": 112
+  },
+  {
+    "id": "e0289803-c4ac-4903-89d2-246178c812c6",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "1AE84129816A5132C8F4271F6558B27A",
+      "A3E6BFFB063B3302F14F1870A6B8D04C"
+    ],
+    "players": [],
+    "fps": 59.988892,
+    "ping": 36
   },
   {
     "id": "6f4367b9-d9b0-43a1-95cd-0b6cb6a24948",
@@ -1479,56 +1397,44 @@
       "DF1EDCE7ED5389DD3D7F2EF72FAEB02A"
     ],
     "players": [],
-    "fps": 59.987701,
-    "ping": 52
+    "fps": 59.990425,
+    "ping": 49
   },
   {
-    "id": "b61b64e4-7beb-48e6-8982-83643ec56dab",
+    "id": "598ceaf2-6d3b-4072-b0ea-d39052e1d478",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "5158A7DCCD9CCD4292EF65C812E728D0",
-      "FB43F600DCFBE0AA05CDB61EB1EB4715"
+      "BE7A619F5A34ED653CBB0A9DEB4A5249",
+      "33AAA73C9FF30F657A17A2964BD4E944"
     ],
     "players": [],
-    "fps": 59.987663,
-    "ping": 87
-  },
-  {
-    "id": "f94ce9f6-fa80-489e-a77b-605c5acea079",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "D70831A31C8375D7F2B882BD4A3CC720",
-      "FBBD19BC886237CDAECEDD58D21BDB99"
-    ],
-    "players": [],
-    "fps": 59.995255,
-    "ping": 62
-  },
-  {
-    "id": "73e86b70-104d-4b6d-b2c5-2c873ff7c7b5",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "AEBE7F4DA1810075C9AB688B46906A88",
-      "C569D2DB97109623BF3B3B93A4FA20F6"
-    ],
-    "players": [],
-    "fps": 59.993694,
-    "ping": 21
+    "fps": 60.001873,
+    "ping": 54
   },
   {
     "id": "4730cd41-9ba4-43c7-98fb-f7d58767aa95",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "53B9BD405C804137B4D9D5AC37FBB123",
+      "0722D6D74B14D2CF2C5957EA718F0253",
       "72A055F92AA04C7E320BEF648ECCBAAF"
     ],
     "players": [],
-    "fps": 59.992596,
-    "ping": 22
+    "fps": 59.993328,
+    "ping": 29
+  },
+  {
+    "id": "73e86b70-104d-4b6d-b2c5-2c873ff7c7b5",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "C569D2DB97109623BF3B3B93A4FA20F6",
+      "AEBE7F4DA1810075C9AB688B46906A88"
+    ],
+    "players": [],
+    "fps": 59.996723,
+    "ping": 24
   },
   {
     "id": "bb158ddd-f569-4cfb-8c9b-3735cf426499",
@@ -1539,7 +1445,7 @@
       "37F4593E85E3BF37B734C84B3F82B190"
     ],
     "players": [],
-    "fps": 59.99556,
+    "fps": 59.899887,
     "ping": 66
   },
   {
@@ -1547,11 +1453,11 @@
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "81149A3A920BD09A9A3E35D1C9E98924",
+      "0722D6D74B14D2CF2C5957EA718F0253",
       "EA5069EB1995D9CE33D7288ADDF58351"
     ],
     "players": [],
-    "fps": 59.989525,
+    "fps": 60.001194,
     "ping": 48
   },
   {
@@ -1563,56 +1469,56 @@
       "1326100F7C9530561EBD8C5390AAD0F6"
     ],
     "players": [],
-    "fps": 60.012287,
-    "ping": 138
+    "fps": 59.990746,
+    "ping": 141
   },
   {
     "id": "e6b2cd2d-34d0-49be-bf52-e03852cef6ea",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "75C83B495985C350C119382DFBBEA44F",
-      "CB4A9983B28A7CE16363C195B371DFAC"
+      "CB4A9983B28A7CE16363C195B371DFAC",
+      "75C83B495985C350C119382DFBBEA44F"
     ],
     "players": [],
-    "fps": 59.98267,
-    "ping": 21
+    "fps": 59.988869,
+    "ping": 23
   },
   {
     "id": "3a015e59-5660-45b3-acc9-f55a7f7e5b76",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "81E0C0181E7DE6D0AFF245DC362EFCDE",
-      "646A75045DE0BE810830D0F5A8EB0D82"
+      "646A75045DE0BE810830D0F5A8EB0D82",
+      "81E0C0181E7DE6D0AFF245DC362EFCDE"
     ],
     "players": [],
-    "fps": 59.971447,
-    "ping": 58
+    "fps": 59.990532,
+    "ping": 59
   },
   {
     "id": "34ae4255-2f9b-4315-96d4-2b7bd37623d1",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "045F3416AB3CC9BDBBC8746A0F256F12",
-      "0E1C2606C49FE034041BDDBDCE8DBAC6"
+      "0E1C2606C49FE034041BDDBDCE8DBAC6",
+      "045F3416AB3CC9BDBBC8746A0F256F12"
     ],
     "players": [],
-    "fps": 59.992249,
-    "ping": 27
+    "fps": 59.9949,
+    "ping": 41
   },
   {
     "id": "614777ec-11af-431a-b98a-6d4076c9daef",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "5BD417E9BA17D885F2A33AB05CEB3D4D",
-      "C8ED8A094D1D70B8845940523F8AE81F"
+      "C8ED8A094D1D70B8845940523F8AE81F",
+      "5BD417E9BA17D885F2A33AB05CEB3D4D"
     ],
     "players": [],
-    "fps": 59.868633,
-    "ping": 69
+    "fps": 59.992157,
+    "ping": 42
   },
   {
     "id": "af7f4425-5ff2-4fed-8df5-4072c40df7bd",
@@ -1623,7 +1529,7 @@
       "765C646A979D48D7BA9D0786801D1318"
     ],
     "players": [],
-    "fps": 59.983124,
+    "fps": 59.997551,
     "ping": 20
   },
   {
@@ -1631,11 +1537,11 @@
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "0722D6D74B14D2CF2C5957EA718F0253",
+      "53B9BD405C804137B4D9D5AC37FBB123",
       "022C6B32DF72B4D2E862163B51369A1A"
     ],
     "players": [],
-    "fps": 59.995483,
+    "fps": 59.995197,
     "ping": 27
   },
   {
@@ -1647,8 +1553,8 @@
       "6B11F2C70A1B98BD25F8CFFEE7715A52"
     ],
     "players": [],
-    "fps": 60.002354,
-    "ping": 20
+    "fps": 59.983589,
+    "ping": 18
   },
   {
     "id": "8db7b2b8-02a6-4a75-b028-cfc96aa1a6db",
@@ -1659,80 +1565,68 @@
       "C456D12BAD0319B3C88C82549366C7F5"
     ],
     "players": [],
-    "fps": 59.99477,
-    "ping": 77
+    "fps": 59.984303,
+    "ping": 95
   },
   {
     "id": "3ffbc0e5-cbdd-4c3a-9d7e-b57a6b480400",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "B113B08E884D609E3E7A76AC1EF5E40A",
-      "73B575039B48BE3EC5E5EAFF9F5D61D4"
+      "73B575039B48BE3EC5E5EAFF9F5D61D4",
+      "B113B08E884D609E3E7A76AC1EF5E40A"
     ],
     "players": [],
-    "fps": 59.989162,
-    "ping": 57
+    "fps": 59.992966,
+    "ping": 30
   },
   {
     "id": "7d21537d-624f-4958-a08e-0942a9221e4c",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "5B80CDCD4610636050731C8FDFE3A4AD",
-      "F8C373A23B82318C1CAD7AE3A2D0B906"
+      "F8C373A23B82318C1CAD7AE3A2D0B906",
+      "5B80CDCD4610636050731C8FDFE3A4AD"
     ],
     "players": [],
-    "fps": 59.994934,
-    "ping": 105
-  },
-  {
-    "id": "e1b54a23-10d2-48f1-b85a-aacdeaf574c3",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "D71899A3340EDF8F8150C6EEA5FBA368",
-      "E4B3EE4F8319A63C05E869222AB23702"
-    ],
-    "players": [],
-    "fps": 59.980251,
-    "ping": 85
-  },
-  {
-    "id": "ee056064-8155-4ba1-bb70-320f8b770955",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "9756F6B40CA96904D0DBE4E30C95F7F8",
-      "340690974BD726E6C673B1D5AA57F95F"
-    ],
-    "players": [],
-    "fps": 59.990978,
-    "ping": 94
+    "fps": 59.983543,
+    "ping": 100
   },
   {
     "id": "859b7710-020e-496a-a726-bb80b357a147",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "284E790996CF14A074D183C805E7CD94",
-      "E3911B4D6B64CC227D6B57F296DD0D4F"
+      "E3911B4D6B64CC227D6B57F296DD0D4F",
+      "284E790996CF14A074D183C805E7CD94"
     ],
     "players": [],
-    "fps": 59.989944,
+    "fps": 59.99736,
     "ping": 34
   },
   {
-    "id": "424e9cf7-e004-4e2f-b2a5-f302c14a442e",
+    "id": "e1b54a23-10d2-48f1-b85a-aacdeaf574c3",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "E1BC473D8DAEFCB37C81579DBDCE182E",
-      "D26944B3C356AACDEC06960D5FE77B66"
+      "E4B3EE4F8319A63C05E869222AB23702",
+      "D71899A3340EDF8F8150C6EEA5FBA368"
     ],
     "players": [],
-    "fps": 60.006157,
-    "ping": 85
+    "fps": 59.988068,
+    "ping": 67
+  },
+  {
+    "id": "ee056064-8155-4ba1-bb70-320f8b770955",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "340690974BD726E6C673B1D5AA57F95F",
+      "9756F6B40CA96904D0DBE4E30C95F7F8"
+    ],
+    "players": [],
+    "fps": 59.995205,
+    "ping": 92
   },
   {
     "id": "3d278262-2aad-4256-b673-04e78460b6d4",
@@ -1743,20 +1637,20 @@
       "A02D9FE72007FC9C8C5FE87BA3F23F2F"
     ],
     "players": [],
-    "fps": 59.926991,
-    "ping": 121
+    "fps": 59.98785,
+    "ping": 119
   },
   {
     "id": "8946be0e-a669-4c38-bf38-f5b465f0d483",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "53B9BD405C804137B4D9D5AC37FBB123",
+      "0722D6D74B14D2CF2C5957EA718F0253",
       "45CE16915A5EFD41A9A76D892BECE394"
     ],
     "players": [],
-    "fps": 59.997898,
-    "ping": 49
+    "fps": 60.088608,
+    "ping": 47
   },
   {
     "id": "fe8fec34-b281-46e7-b9b5-64137fa08bc2",
@@ -1767,20 +1661,32 @@
       "C1B683D9364C8F52A49AC2B4EE2774DB"
     ],
     "players": [],
-    "fps": 59.993492,
-    "ping": 81
+    "fps": 59.995037,
+    "ping": 58
+  },
+  {
+    "id": "8c1f3209-9322-4fce-8b1b-7b8986652e7b",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "3D2D457C815E8E2940B3095C10867C57",
+      "9872BC2D8DEC4B0C72746C6ABB90E310"
+    ],
+    "players": [],
+    "fps": 59.972866,
+    "ping": 165
   },
   {
     "id": "0bbd31fc-e2d7-4d4e-a3cf-764dcc5a2678",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "0722D6D74B14D2CF2C5957EA718F0253",
+      "81149A3A920BD09A9A3E35D1C9E98924",
       "91A2ECF6ED81A6F43ADF7B12E36790C0"
     ],
     "players": [],
-    "fps": 59.999035,
-    "ping": 18
+    "fps": 59.995205,
+    "ping": 25
   },
   {
     "id": "82e14bd8-fcff-4391-a924-f68781ea6f4e",
@@ -1791,20 +1697,8 @@
       "0DFACC62EBD434B6EAD05A858E8BCCDF"
     ],
     "players": [],
-    "fps": 59.985428,
-    "ping": 27
-  },
-  {
-    "id": "c6761c87-1acd-4aea-9261-a29df76ab21d",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "64CF319DF388D5EFCFC744AFBE07C56E",
-      "DF77B90F1EEDC93D86596B5E8024CA4E"
-    ],
-    "players": [],
-    "fps": 59.992851,
-    "ping": 93
+    "fps": 59.976826,
+    "ping": 25
   },
   {
     "id": "4f4957ad-d141-4039-b87a-777aa28d6a4a",
@@ -1815,8 +1709,8 @@
       "C3B7BABB66B8F0DB5EA71E78F5C1F723"
     ],
     "players": [],
-    "fps": 60.09478,
-    "ping": 324
+    "fps": 59.997749,
+    "ping": 247
   },
   {
     "id": "e96651d8-4a39-4b3d-8e32-2a4c015be7ee",
@@ -1827,8 +1721,8 @@
       "8163BA6B577C4037FCA06E674F61F8D8"
     ],
     "players": [],
-    "fps": 60.000824,
-    "ping": 19
+    "fps": 59.995132,
+    "ping": 23
   },
   {
     "id": "df9112fd-8528-46b7-97ed-6286169b7e30",
@@ -1839,20 +1733,44 @@
       "239F579B4F5EF37A00C2666242BF0387"
     ],
     "players": [],
-    "fps": 59.991623,
-    "ping": 166
+    "fps": 59.998169,
+    "ping": 165
   },
   {
-    "id": "a3ee43aa-d0fd-4cfd-8bc7-c6640a79ac09",
+    "id": "a39db884-ee11-475e-a21a-7eedba707c50",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "D5C27531971C9F7F45AB78D2F6110EB4",
-      "FE8452D8BF245A571071D999D2E5CB5D"
+      "4C421348D2D545CAED121FC58B5656E4",
+      "07FDE97DD8716AA0637370653A5071C8"
     ],
     "players": [],
-    "fps": 59.991005,
-    "ping": 32
+    "fps": 59.98246,
+    "ping": 109
+  },
+  {
+    "id": "14914d47-def8-4685-9325-17502cefb967",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "40CEB91D0E51BD521E94286A2F5A87D9",
+      "4363B0D611E588715D381491CE2F49A3"
+    ],
+    "players": [],
+    "fps": 59.992878,
+    "ping": 162
+  },
+  {
+    "id": "294c3411-8abc-43f3-8d8a-67a2475afaab",
+    "maxPlayers": 12,
+    "playing": 2,
+    "playerTokens": [
+      "C4E9AA5A17A9E129C44DDFBC9C394E58",
+      "F602567347C9803B6D6444DF7622A521"
+    ],
+    "players": [],
+    "fps": 59.997501,
+    "ping": 90
   },
   {
     "id": "ca127e79-d062-432b-936b-67b0c42c2a7e",
@@ -1863,20 +1781,20 @@
       "51A6D45873114E8AA7A4C0E9F02801DC"
     ],
     "players": [],
-    "fps": 59.997078,
+    "fps": 59.992908,
     "ping": 112
   },
   {
-    "id": "14c9891f-a2f0-4529-a72e-ac905192858f",
+    "id": "6e44e108-21b8-452d-8667-622cdfe1bec2",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "0C9577B34581F4B25E23D3EA0DF80BAD",
-      "248179BD0DB648C5D0D76B5093C65232"
+      "7C011333432F1AAD1C8CFF3725C95FBD",
+      "DFB3D63E2E0FB129907B026670F70CE0"
     ],
     "players": [],
-    "fps": 59.981739,
-    "ping": 155
+    "fps": 59.983978,
+    "ping": 7
   },
   {
     "id": "1feb34cb-9f31-4e09-bb28-7446f07980a6",
@@ -1887,8 +1805,8 @@
       "556A41DD9D6F661DAA8E6193CD693C0C"
     ],
     "players": [],
-    "fps": 59.991085,
-    "ping": 101
+    "fps": 59.9958,
+    "ping": 104
   },
   {
     "id": "5d313587-22f7-48ed-b7fe-f71a0b73541b",
@@ -1899,8 +1817,8 @@
       "1D9E39E0710C0C6CD4DEE1EE2E2D9BD9"
     ],
     "players": [],
-    "fps": 59.967968,
-    "ping": 70
+    "fps": 60.006687,
+    "ping": 71
   },
   {
     "id": "1927a65a-fe6e-4c64-8610-a3628884b2b1",
@@ -1911,20 +1829,20 @@
       "41BA9D76FED28DEA7FC0620EA38CC95E"
     ],
     "players": [],
-    "fps": 59.876919,
-    "ping": 113
+    "fps": 59.994366,
+    "ping": 132
   },
   {
-    "id": "f8ff79b0-d68d-4bac-8cf5-4ae7b0049232",
+    "id": "7386ad45-c309-47cf-9067-8a7b33a64e82",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "64CF319DF388D5EFCFC744AFBE07C56E",
-      "B5BE589B8979202A4A1E80787A2973AD"
+      "53B9BD405C804137B4D9D5AC37FBB123",
+      "4B21AE214BB9C183B1D4AE1FF235A9B1"
     ],
     "players": [],
-    "fps": 59.990021,
-    "ping": 173
+    "fps": 59.995636,
+    "ping": 137
   },
   {
     "id": "b298afa5-1b1a-4cf5-a4c8-c11985b4a070",
@@ -1935,20 +1853,8 @@
       "CB6436E91B7CEB41FC621FDE18940800"
     ],
     "players": [],
-    "fps": 59.986588,
-    "ping": 148
-  },
-  {
-    "id": "7386ad45-c309-47cf-9067-8a7b33a64e82",
-    "maxPlayers": 12,
-    "playing": 2,
-    "playerTokens": [
-      "0722D6D74B14D2CF2C5957EA718F0253",
-      "4B21AE214BB9C183B1D4AE1FF235A9B1"
-    ],
-    "players": [],
-    "fps": 60.028488,
-    "ping": 192
+    "fps": 59.991314,
+    "ping": 68
   },
   {
     "id": "5fc3e544-0dd0-4a29-aaca-54770f8faf6e",
@@ -1959,32 +1865,32 @@
       "70AF1BA8EEBBEA36F87D7E855DA1008D"
     ],
     "players": [],
-    "fps": 59.991554,
-    "ping": 26
+    "fps": 59.988197,
+    "ping": 23
   },
   {
-    "id": "8bf8bf20-e4dd-4cc9-be80-8719aa62eb2c",
+    "id": "9c844ca4-310d-4f42-9bb1-ad556b89bbe1",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "D8C391780AC5375E5AB552F59751CFDD",
-      "3196F521264ECF1FA6896D583BA5C28B"
+      "4ECFDCD21912FB999CF74D7C566E55A5",
+      "47C44847B14674F45EB5A4BB5C1BFD12"
     ],
     "players": [],
-    "fps": 59.990143,
-    "ping": 29
+    "fps": 59.990658,
+    "ping": 59
   },
   {
     "id": "300bef48-df99-4a91-8969-999f67e17dad",
     "maxPlayers": 12,
     "playing": 2,
     "playerTokens": [
-      "5B5191D924B9B709E1CA713DA6C15CF0",
-      "21D82BAA27FDF0F308A4C1DD2496BB2C"
+      "21D82BAA27FDF0F308A4C1DD2496BB2C",
+      "5B5191D924B9B709E1CA713DA6C15CF0"
     ],
     "players": [],
-    "fps": 59.984814,
-    "ping": 144
+    "fps": 59.983746,
+    "ping": 138
   },
   {
     "id": "6eda776c-2208-4f4e-b0e5-9c2c6e421c5e",
@@ -1995,164 +1901,142 @@
       "E9A83F2BBBC017D0CA99BF900B9033A7"
     ],
     "players": [],
-    "fps": 60.000809,
-    "ping": 32
+    "fps": 59.997517,
+    "ping": 40
   },
   {
-    "id": "f7c5ff12-b16c-4943-99ea-5cd3998d21f9",
+    "id": "ff6c37a6-1c95-4c27-9ec1-dc26efde0af7",
     "maxPlayers": 12,
-    "playing": 3,
+    "playing": 2,
     "playerTokens": [
-      "BA592361ADD259818B46B16682CB428B",
-      "35CF4A4E22E7FAC6D9C5D4A2B1AC0C8C",
-      "56D64DA4B9B4E9FB509BC4296DB207C5"
+      "6BF541614728F4D1C3E1DB1635673678",
+      "C89E649CDE2D5885D129329B026D884E"
     ],
     "players": [],
-    "fps": 59.981953,
-    "ping": 63
+    "fps": 59.968559,
+    "ping": 77
   },
   {
     "id": "1a1cfb0b-4530-4006-861d-002579d385d4",
     "maxPlayers": 12,
-    "playing": 3,
+    "playing": 2,
     "playerTokens": [
-      "80CCCEEDB9BF56CD3969F3F1C4C0AD81",
       "069F42591C90FB8EB9BD668B8C51BF47",
-      "B31A4B37B099A2A02B2304516222CB67"
+      "80CCCEEDB9BF56CD3969F3F1C4C0AD81"
     ],
     "players": [],
-    "fps": 59.990566,
-    "ping": 64
+    "fps": 59.991035,
+    "ping": 62
   },
   {
-    "id": "cb204d8d-89f7-4fde-b01b-71b63d2da7a2",
+    "id": "fc2035c5-f058-4932-935a-9d734cc7596b",
     "maxPlayers": 12,
-    "playing": 3,
+    "playing": 2,
     "playerTokens": [
-      "2A196302B2A68692BD69E6A82B93030C",
-      "7E30F1F84853EF82FD379C6B752D2CF7",
-      "3F5890E0DFDCCE7171DC6F407FBFE3FA"
+      "9E5066A579E680BB69D5A71A4CE9A5D1",
+      "980DD047873CD9800D20CDE5F9EA4F35"
     ],
     "players": [],
-    "fps": 60.003914,
-    "ping": 139
+    "fps": 59.993935,
+    "ping": 104
   },
   {
-    "id": "97656727-b90a-4dc0-b9b9-0c1cb986bf45",
+    "id": "36f38dd2-7b46-442b-99ae-e2cf39d4764a",
     "maxPlayers": 12,
-    "playing": 3,
+    "playing": 2,
     "playerTokens": [
-      "86D221C27C568B3C01B5886F5F128BE0",
-      "49AE1FC6DABCF512B71E6B4E0D0BA369",
-      "EE6F9B421209067C1426315036139A1B"
+      "613A2A43A9BF3398F0EEEE257BE5DAD9",
+      "35CB34C61181F48B12A937618922D0DB"
     ],
     "players": [],
-    "fps": 59.975136,
-    "ping": 67
+    "fps": 59.991352,
+    "ping": 25
   },
   {
-    "id": "8093ad82-d082-4f5d-9f29-0df32ed7aa0c",
+    "id": "31715cab-ff24-4464-86c6-3fbd1848a31a",
     "maxPlayers": 12,
-    "playing": 3,
+    "playing": 2,
     "playerTokens": [
-      "6D10D3BAC398E37366F4185189839AF2",
-      "E29CC40C2791699A9DF7AF19D59F8725",
-      "31C5FDC0BB741936D1A27615E9BA231E"
+      "824B1CF74A2651112994877324DC8A32",
+      "184AD663C984887F4F9291DB4FE598AC"
     ],
     "players": [],
-    "fps": 59.969528,
-    "ping": 59
+    "fps": 59.990692,
+    "ping": 66
   },
   {
-    "id": "1afecc07-f031-44c0-85e8-5d583f47fc11",
+    "id": "de05fbcd-6b1d-4320-91b8-1f07c2d679cb",
     "maxPlayers": 12,
-    "playing": 3,
+    "playing": 2,
     "playerTokens": [
-      "E6F0110E2AB2A86A7E7CFCC4F09712EA",
-      "1F8D94ACFE8E4FEF726CE567868023C2",
-      "6B417D0D2207E41F9ADB53C8225AD769"
+      "6DBDC517B8BEF233D1EBBA5E33C0401B",
+      "A31DF7C562781EED124555FA6440DDA2"
     ],
     "players": [],
-    "fps": 59.990574,
-    "ping": 106
+    "fps": 59.893688,
+    "ping": 35
   },
   {
-    "id": "945cec77-75d0-40b4-80d6-f503a68fc693",
+    "id": "35564fbb-7bd2-41a8-ba80-14a934a2f719",
     "maxPlayers": 12,
-    "playing": 3,
+    "playing": 2,
     "playerTokens": [
-      "81149A3A920BD09A9A3E35D1C9E98924",
-      "D83EC0E156C2898B308F3E48CEF44AFB",
-      "9EF3B546D2B2B98B2F027956C9D05FF5"
+      "75F1403B9138DA8618233BFE9683FC49",
+      "59BD671051762DD619EC1F92B11645BF"
     ],
     "players": [],
-    "fps": 59.996147,
-    "ping": 76
+    "fps": 59.983059,
+    "ping": 29
   },
   {
-    "id": "28e407c0-1a65-4bbc-8e0f-c5d62ce5bc45",
+    "id": "878ab624-ca1d-4638-b24e-cf9e735e0a6e",
     "maxPlayers": 12,
-    "playing": 3,
+    "playing": 2,
     "playerTokens": [
-      "6FDCB3A817E6EB45C969649211F60B61",
-      "B0D2E0EBD2FEC3F64E3D73FDD0F1C8E9",
-      "7202DE6BBD0BCE748F3EC7E157C2F677"
+      "B28B59437DB538DAB2B81CBCD57EB256",
+      "32931AF5EE76E71170AEBAE9887EF290"
     ],
     "players": [],
-    "fps": 59.99379,
-    "ping": 100
+    "fps": 59.984234,
+    "ping": 131
   },
   {
-    "id": "9a5f1d8f-073c-4639-9411-353bd203613a",
+    "id": "60441538-033e-4651-baa4-633380775093",
     "maxPlayers": 12,
-    "playing": 3,
+    "playing": 2,
     "playerTokens": [
-      "EBF4C5AEE0D1FE06F7D9A0E56CE15EA9",
-      "608510E51B6467EA7B2AF0CEC6B23229",
-      "C198B8A02737A83BBE018EBEF5525DE6"
+      "E02F03F8BAC84F752308FF1CE3237248",
+      "FD51D9F6733D7028F563346C6E0AF5A4"
     ],
     "players": [],
-    "fps": 59.970604,
-    "ping": 137
-  },
-  {
-    "id": "180cab1f-528b-45a9-b528-a3974b21a2a7",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "647A0F52D0A98DE58E02266309237556",
-      "3C770F2CF73DB3D106E2B164A2270CDB",
-      "597613660A16D7DC87261D447EC84235"
-    ],
-    "players": [],
-    "fps": 59.939625,
-    "ping": 126
+    "fps": 60.007866,
+    "ping": 108
   },
   {
     "id": "2943a542-4cac-4e8d-8606-cd6400a8ddcc",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "9F85ADAE1F5047A8FFAD1AEE92944545",
       "170C8F41530CDF323AB0BE58A52FAD92",
+      "9F85ADAE1F5047A8FFAD1AEE92944545",
       "79F860EE66CE8513E7D79CA9AEC4FF6B"
     ],
     "players": [],
-    "fps": 59.988831,
-    "ping": 20
+    "fps": 60.036758,
+    "ping": 17
   },
   {
     "id": "7228cd45-4d05-4631-81ad-d348308ca3cc",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "1999D8940346C3172D39651056D1F3E7",
+      "B8FDAFE383EC18485E63B4A5D6EA29E7",
       "FED4EDD82C981F4DED7EA08D6A4FB049",
-      "B8FDAFE383EC18485E63B4A5D6EA29E7"
+      "1999D8940346C3172D39651056D1F3E7"
     ],
     "players": [],
-    "fps": 59.99976,
-    "ping": 223
+    "fps": 60.002434,
+    "ping": 234
   },
   {
     "id": "09813c99-28cd-49a3-9066-418b355eef67",
@@ -2164,86 +2048,73 @@
       "3858565AB4485CEC1FFFDA0429FC761F"
     ],
     "players": [],
-    "fps": 59.9841,
-    "ping": 26
+    "fps": 59.99221,
+    "ping": 24
   },
   {
     "id": "248659e2-89af-421e-acc8-d7c452e48d57",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
+      "2B6E594125E1ECC11C9C80700D72518C",
       "0B291E6B5047BF0FA261444C893FAFEB",
-      "6E27ACCB3442FAE92E1594C753F69D8B",
-      "2B6E594125E1ECC11C9C80700D72518C"
+      "6E27ACCB3442FAE92E1594C753F69D8B"
     ],
     "players": [],
-    "fps": 59.861027,
-    "ping": 111
-  },
-  {
-    "id": "dac98b98-85bb-43cc-9f25-5ba4d134dd77",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "7B44B3F7C675B05154366C5C357EAF72",
-      "C0990A72FECE457F3DC49A1F5052ED3C",
-      "3C1935C3DC567400AAB56DC99FC659E4"
-    ],
-    "players": [],
-    "fps": 59.993687,
-    "ping": 114
+    "fps": 59.979946,
+    "ping": 112
   },
   {
     "id": "9dfb14d3-0520-4683-bcfb-6ad4e8b41985",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "C971B32437BDBDF7F0D0CAB55DA006BC",
       "623FBC7122CB9CD4B5C9E5649769719D",
+      "C971B32437BDBDF7F0D0CAB55DA006BC",
       "0266ECCFE3D103CF2E8D2A109255BDF8"
     ],
     "players": [],
-    "fps": 59.988708,
-    "ping": 69
+    "fps": 59.869305,
+    "ping": 80
   },
   {
     "id": "15ef91a4-2bcd-4d46-9a18-e3a2f869ab97",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "81149A3A920BD09A9A3E35D1C9E98924",
       "0722D6D74B14D2CF2C5957EA718F0253",
+      "53B9BD405C804137B4D9D5AC37FBB123",
       "56040E24E9E9F56856A8939A638BD0F7"
     ],
     "players": [],
-    "fps": 59.977715,
-    "ping": 133
+    "fps": 59.87561,
+    "ping": 140
   },
   {
     "id": "9e4bd992-3f12-48b4-8f5f-3b179be7dacf",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "66A9CCB5F51B9B5FE408A72AEADE0183",
       "22E65A753374E438E525C6E622D893A8",
+      "66A9CCB5F51B9B5FE408A72AEADE0183",
       "3FBF729AC3108BC68AF56B1463A77DF6"
     ],
     "players": [],
-    "fps": 59.933247,
-    "ping": 32
+    "fps": 59.962212,
+    "ping": 49
   },
   {
     "id": "8b1c2400-17a9-414a-9276-7458f0a25cdc",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "308360E54130B9FC090CE217A2A9D2D8",
       "6B6FB0F0C39A633116F1C07540EBFFD8",
-      "E1EE939B4D4AD336FC7F2A19905BC078"
+      "E1EE939B4D4AD336FC7F2A19905BC078",
+      "308360E54130B9FC090CE217A2A9D2D8"
     ],
     "players": [],
-    "fps": 59.995319,
-    "ping": 92
+    "fps": 59.99744,
+    "ping": 87
   },
   {
     "id": "b67481e3-1718-4170-8aca-ad7422692e00",
@@ -2251,11 +2122,11 @@
     "playing": 3,
     "playerTokens": [
       "24BCEA5F07360BEDF3710927FA5E1A63",
-      "D176B9053E3C7DD349A54A9936D97A8C",
-      "FAFF4C815AC7EE8361C494E0AF5F0605"
+      "FAFF4C815AC7EE8361C494E0AF5F0605",
+      "D176B9053E3C7DD349A54A9936D97A8C"
     ],
     "players": [],
-    "fps": 59.975899,
+    "fps": 59.906788,
     "ping": 44
   },
   {
@@ -2263,13 +2134,13 @@
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "9E2BD5BFF0E55EEB23EEA65F8B01A16E",
+      "80F8E908973FA4D773584118015E91C8",
       "2450B15CA2D689EB190FD72C2889F663",
-      "80F8E908973FA4D773584118015E91C8"
+      "9E2BD5BFF0E55EEB23EEA65F8B01A16E"
     ],
     "players": [],
-    "fps": 59.985001,
-    "ping": 84
+    "fps": 59.991161,
+    "ping": 83
   },
   {
     "id": "7dbd46d5-8445-4534-9a53-65b750b6f513",
@@ -2281,21 +2152,21 @@
       "B7F03EEBFCD828B7133B4F285241FB9B"
     ],
     "players": [],
-    "fps": 60.091496,
-    "ping": 22
+    "fps": 59.996155,
+    "ping": 25
   },
   {
     "id": "df18f8a7-5d46-48f4-b0ee-a8fb3ebd609e",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "4ECFDCD21912FB999CF74D7C566E55A5",
-      "7B0608F3BC00920657DE1F1F09FBC389",
-      "62DFA8C95440268A726C60CB6AF77B44"
+      "64CF319DF388D5EFCFC744AFBE07C56E",
+      "62DFA8C95440268A726C60CB6AF77B44",
+      "7B0608F3BC00920657DE1F1F09FBC389"
     ],
     "players": [],
-    "fps": 60.00766,
-    "ping": 28
+    "fps": 59.997784,
+    "ping": 35
   },
   {
     "id": "7894037a-92f6-4855-ae51-618806fa81a8",
@@ -2303,37 +2174,37 @@
     "playing": 3,
     "playerTokens": [
       "C8419A8C7CC1F3B81E620A60115C1D1A",
-      "84898B0F71A1B3124A8D782047F8EB0C",
-      "980A5CE01244A9BCCA3153E647509200"
+      "980A5CE01244A9BCCA3153E647509200",
+      "84898B0F71A1B3124A8D782047F8EB0C"
     ],
     "players": [],
-    "fps": 59.975792,
-    "ping": 35
+    "fps": 60.001602,
+    "ping": 31
   },
   {
-    "id": "65e5eff3-7c80-4d77-9136-b65d37837dd6",
+    "id": "8f4a7b7b-c053-4a7e-83fd-a54d6215c27d",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "2F389E15CC4AAFFC56491DE24DD08E3C",
-      "30D533AC097FC23AD16EF155997ED77F",
-      "D51516EAF63D0AB3BE965FE965D94293"
+      "FC78A4D23F82596DA7A0B883B08BF153",
+      "67B770AA8075E8D92A2444276C4606C7",
+      "72AD3BDCD0F4E0810DF84DE6F5E90374"
     ],
     "players": [],
-    "fps": 59.99036,
-    "ping": 28
+    "fps": 59.992775,
+    "ping": 161
   },
   {
     "id": "31a736ae-7f20-4a61-8185-f98b7442cb31",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
+      "D2E24C30EF3F38295CB03EA8C01BC7F1",
       "AEE3AA5227454DCBC890BCEE0499FCD4",
-      "751374E1488A7BA13EE9FB26FBB8A7FA",
-      "D2E24C30EF3F38295CB03EA8C01BC7F1"
+      "751374E1488A7BA13EE9FB26FBB8A7FA"
     ],
     "players": [],
-    "fps": 59.98106,
+    "fps": 59.943859,
     "ping": 102
   },
   {
@@ -2341,12 +2212,12 @@
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "F697ED92C4EAE5C066BD216394BFF568",
       "6E838463335B557D9A1A5FC8CD7DF897",
+      "F697ED92C4EAE5C066BD216394BFF568",
       "E9BDE264C614D1645DF5398DCAE77559"
     ],
     "players": [],
-    "fps": 59.967335,
+    "fps": 59.987793,
     "ping": 195
   },
   {
@@ -2355,64 +2226,51 @@
     "playing": 3,
     "playerTokens": [
       "D0524040B227BE572EA45EDE1B89649F",
-      "103FFA8A17DEB0F2EDA3D39DAC5C6914",
-      "D6265002C3344D5CBFBD286B0E2A08F8"
+      "D6265002C3344D5CBFBD286B0E2A08F8",
+      "103FFA8A17DEB0F2EDA3D39DAC5C6914"
     ],
     "players": [],
-    "fps": 59.981159,
-    "ping": 59
+    "fps": 59.984966,
+    "ping": 50
   },
   {
     "id": "4abdd450-ddd4-40b3-8a72-b6988687f59e",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "3C0A73D2188FA0817E443B4328A8DF65",
       "E4039C561B46F633C60BC4F82732B35F",
+      "3C0A73D2188FA0817E443B4328A8DF65",
       "530D9B873BA946421A835A28C0CDAE92"
     ],
     "players": [],
-    "fps": 59.955608,
-    "ping": 132
+    "fps": 59.981319,
+    "ping": 112
   },
   {
     "id": "ef51d6a9-556c-49ca-b981-fd021d5066de",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
+      "DE74C8DF3500E0EB906722B461B72249",
       "6C3A99D4989E1B95AB653CABB36D756F",
-      "31C63BBD4982997D4BAF6390FCC5BA0C",
-      "DE74C8DF3500E0EB906722B461B72249"
+      "31C63BBD4982997D4BAF6390FCC5BA0C"
     ],
     "players": [],
-    "fps": 60.016838,
-    "ping": 138
+    "fps": 59.99781,
+    "ping": 139
   },
   {
     "id": "9094d9aa-b2db-4e69-ae9c-2cb97f855754",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
+      "7C9131E8C33762C7D7B6438F9821A7EC",
       "F63CAD5DC8F535D5641A9A70F0A6FCCD",
-      "DD34833EDD81FB284D607AF25EFA738B",
-      "7C9131E8C33762C7D7B6438F9821A7EC"
+      "DD34833EDD81FB284D607AF25EFA738B"
     ],
     "players": [],
-    "fps": 59.978809,
-    "ping": 54
-  },
-  {
-    "id": "52374d47-169f-4266-a323-9d3daccb2b48",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "3A4E78119D0DEC77B23A45C8B1D23A52",
-      "0463AACB259B70E7A20007F7E873974D",
-      "4F2FFC79C9B39516581FE15DF16FE6A3"
-    ],
-    "players": [],
-    "fps": 59.859531,
-    "ping": 45
+    "fps": 59.971535,
+    "ping": 75
   },
   {
     "id": "c8391d84-b1c9-4f58-9dcc-f76cf8695b88",
@@ -2424,60 +2282,34 @@
       "BB8884A6AEE579DAA7ACC390FA4BEEC4"
     ],
     "players": [],
-    "fps": 59.977322,
-    "ping": 173
-  },
-  {
-    "id": "32a0ff5d-dc3b-4640-b85d-15a69f121a2e",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "43980B9F26BEED73C0A417C1B9D849BD",
-      "365B60EBC54E0E1936CEEFF252F783C4",
-      "E0337AC02632FF74928B0129197C4F07"
-    ],
-    "players": [],
-    "fps": 59.984238,
-    "ping": 25
-  },
-  {
-    "id": "a2cb724a-563d-4987-8883-b255dc722ca3",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "7F0E683AB118251FFCD0D8A64BD4C4B0",
-      "DF73504A4C80BA4F5E899A77C2DEF4F5",
-      "C8D774369EB42DC47077AB7984157626"
-    ],
-    "players": [],
-    "fps": 60.010937,
-    "ping": 69
+    "fps": 60.024799,
+    "ping": 174
   },
   {
     "id": "2b07ef16-a23c-4e2f-b51f-01619c739372",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "3BD6DA4C70A6F05469070DEA00B4A049",
+      "27131C77114363BABA6A323C70699479",
       "8E48F5536FFF1F5362D6626DD4EFE7AA",
-      "27131C77114363BABA6A323C70699479"
+      "3BD6DA4C70A6F05469070DEA00B4A049"
     ],
     "players": [],
-    "fps": 60.000008,
-    "ping": 48
+    "fps": 59.996078,
+    "ping": 93
   },
   {
-    "id": "48b77239-43d4-45a0-8756-aa9d35489417",
+    "id": "32a0ff5d-dc3b-4640-b85d-15a69f121a2e",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "210D9E421FDCEE9AB302A85D9E9D6000",
-      "AD5AF99A11805670C8195FB3EDEFF7E5",
-      "6ACBE4812B8D3F30FA245A31D6B61A52"
+      "365B60EBC54E0E1936CEEFF252F783C4",
+      "43980B9F26BEED73C0A417C1B9D849BD",
+      "E0337AC02632FF74928B0129197C4F07"
     ],
     "players": [],
-    "fps": 59.987633,
-    "ping": 63
+    "fps": 59.979813,
+    "ping": 15
   },
   {
     "id": "eda1e5df-5bb2-49ac-a051-77d961098f09",
@@ -2489,125 +2321,60 @@
       "43F5D779EFFAECCB9AF377C85378E40D"
     ],
     "players": [],
-    "fps": 60.000423,
-    "ping": 192
+    "fps": 59.992432,
+    "ping": 99
   },
   {
-    "id": "b33b8b66-a79d-4b4b-9fbf-6b993861f937",
+    "id": "48b77239-43d4-45a0-8756-aa9d35489417",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "0722D6D74B14D2CF2C5957EA718F0253",
-      "B474CE462BE1DE143CAE123BE351DB71",
-      "0DB197F7F701C24A0C25D0FD7313F824"
+      "6ACBE4812B8D3F30FA245A31D6B61A52",
+      "AD5AF99A11805670C8195FB3EDEFF7E5",
+      "648950621FD13E667C8C64DCE4F011F8"
     ],
     "players": [],
-    "fps": 60.096786,
-    "ping": 84
+    "fps": 59.994316,
+    "ping": 103
   },
   {
-    "id": "c2444001-3b91-4201-91ce-b7703605ae65",
+    "id": "2112e1a1-fdf5-46e9-9c77-e7b99bfa4a97",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "269FA4513348DE8E178CFBD8207BBC58",
-      "29805F04816889A656ECEBA72DF1CC7B",
-      "2170DF70CE6EFFBF2AC9A14A1A064F3D"
+      "6719F8CB49002C2FFA42123FF92EDBC0",
+      "091C1461919B35AC64F9470069657357",
+      "BB7B7F14A7699B7D820FBB89FCF4B1EF"
     ],
     "players": [],
-    "fps": 59.99268,
-    "ping": 27
+    "fps": 59.99688,
+    "ping": 62
   },
   {
-    "id": "21208380-4568-48a7-9d65-852049db0c87",
+    "id": "4b4ce9f0-ae7a-4ac8-9400-ed50bb9b2610",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "2D94B720C0F4055CCD7D1C65463A15BB",
-      "7899D008321FDDE75B74667B0F54EAE7",
-      "3E3E744FC459E2E601A583A719AA2050"
+      "D9488B4D117409A4F2F788EAE8D7983B",
+      "E897D340394674C00BED7F55E4B1221A",
+      "AE65EEF0CFF3ABF44C91592D0DE133C2"
     ],
     "players": [],
-    "fps": 59.986362,
-    "ping": 126
-  },
-  {
-    "id": "a4117de5-0c31-494a-b832-6d25bf4542f8",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "08D07F904ABFD7110F819749BD46AB23",
-      "730ED40B3C1E2A1164750148FD6737BB",
-      "0856AF847D757690B803EB9E5F960ED1"
-    ],
-    "players": [],
-    "fps": 59.995087,
-    "ping": 43
-  },
-  {
-    "id": "3fa30d05-200f-4201-abbb-d6c6dc6f3cc8",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "CE9223C7A7EB40EA0E4BB4C3B664D563",
-      "E8CBA76E83AD3ABFA3320A9ECC061E47",
-      "36AD9729380EC98751E8646562F26408"
-    ],
-    "players": [],
-    "fps": 59.983498,
-    "ping": 187
-  },
-  {
-    "id": "2ac94348-c558-4ab6-8203-6ffde832d222",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "FC78A4D23F82596DA7A0B883B08BF153",
-      "1E125FCE4FB0F5C82543936226002580",
-      "28DC2B47E4D0C399F6CFF8D476B05649"
-    ],
-    "players": [],
-    "fps": 59.987637,
-    "ping": 141
-  },
-  {
-    "id": "616e4bc6-9279-4daa-b359-c8c3231c837e",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "F2124875D718BFC29CB504B891A375B9",
-      "19CC29495680D0135D97F307D5FDD41E",
-      "BF784F6C5B0E1F652B2D4985DCB7DF24"
-    ],
-    "players": [],
-    "fps": 59.913631,
-    "ping": 85
-  },
-  {
-    "id": "e0289803-c4ac-4903-89d2-246178c812c6",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "1AE84129816A5132C8F4271F6558B27A",
-      "A3E6BFFB063B3302F14F1870A6B8D04C",
-      "0267076EB1FED0711B523D7CA13B82DD"
-    ],
-    "players": [],
-    "fps": 59.99049,
-    "ping": 41
+    "fps": 59.988941,
+    "ping": 64
   },
   {
     "id": "5ed37dff-433b-4e8f-84da-923810137517",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "35A1023BEE2C5F40CAAA1406F166EB76",
       "8BC502410770B1A7166D07304EB93700",
+      "35A1023BEE2C5F40CAAA1406F166EB76",
       "CF51D9E4C13F5740EE22AAC65CA44A5E"
     ],
     "players": [],
-    "fps": 59.983894,
-    "ping": 37
+    "fps": 59.981804,
+    "ping": 38
   },
   {
     "id": "afcb7a4d-530d-4835-b308-4a9ec25134e6",
@@ -2619,8 +2386,8 @@
       "79D090A73BE0221B47D589A171531D0B"
     ],
     "players": [],
-    "fps": 59.959053,
-    "ping": 69
+    "fps": 59.981258,
+    "ping": 64
   },
   {
     "id": "00a4a414-425f-4665-bd80-e99a51d08802",
@@ -2628,12 +2395,12 @@
     "playing": 3,
     "playerTokens": [
       "ADC1C23EED5410E6828D86A73BDA8318",
-      "A1110CB3B7C4C858FA86B008CC79C3E7",
-      "32447DDDF8FB380FC2289CAE920EA30E"
+      "32447DDDF8FB380FC2289CAE920EA30E",
+      "A1110CB3B7C4C858FA86B008CC79C3E7"
     ],
     "players": [],
-    "fps": 59.981449,
-    "ping": 125
+    "fps": 59.980873,
+    "ping": 62
   },
   {
     "id": "7f271ac8-3045-4d4b-a6d7-24c8de062b09",
@@ -2645,86 +2412,86 @@
       "61523E2577DAAB204FC234164B29DC07"
     ],
     "players": [],
-    "fps": 59.987671,
-    "ping": 15
+    "fps": 59.983124,
+    "ping": 14
   },
   {
     "id": "08911fd1-86ad-4b4d-8f98-45dee8553e76",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "81149A3A920BD09A9A3E35D1C9E98924",
+      "4ECFDCD21912FB999CF74D7C566E55A5",
       "8197CE4D1191673925FC5EE9EA55D649",
       "E07C9A6BE36790E0EAECDCDDE2ECC9FE"
     ],
     "players": [],
-    "fps": 59.980572,
-    "ping": 113
+    "fps": 59.984718,
+    "ping": 117
   },
   {
     "id": "505ab30f-ec44-4b11-95ce-784b1e748ed8",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "16394B7D8AFB41EFC1A526792965C860",
       "CB8CCB82CE323D5BC0951969D3166CAF",
+      "16394B7D8AFB41EFC1A526792965C860",
       "022BA3E5F5C374F456D26DE8CDEE711A"
     ],
     "players": [],
-    "fps": 59.984741,
-    "ping": 169
+    "fps": 59.99099,
+    "ping": 173
+  },
+  {
+    "id": "af97a5f3-c2af-4bb4-9cd3-689632728676",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "CDE8922908CF9EA3875B696ADBAE4069",
+      "102A3BFA95A04739563C0AF3E73847EF",
+      "0A38310284F4D2C585C99118EFA9AE6E"
+    ],
+    "players": [],
+    "fps": 59.996666,
+    "ping": 21
   },
   {
     "id": "b28c203a-af67-4ace-8403-24dee95d879b",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "5D9C8E6D67C0FDD655B7FEB5691895ED",
       "F10599E3D7B49CEF9809BDAA02C523BC",
+      "5D9C8E6D67C0FDD655B7FEB5691895ED",
       "BE7C7A6534C051BF147B5F62545404AC"
     ],
     "players": [],
-    "fps": 59.996552,
-    "ping": 23
+    "fps": 59.998421,
+    "ping": 26
   },
   {
     "id": "ad081a9b-81db-4746-aa7b-2f6dca6b23d5",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "C48626927DB75AF16D6903C8772EB792",
       "7081BBC5955F78EF75644703836476BA",
+      "C48626927DB75AF16D6903C8772EB792",
       "2A3657B5E2055BF1B2278755FA4EAE0E"
     ],
     "players": [],
-    "fps": 59.988873,
-    "ping": 122
+    "fps": 59.997253,
+    "ping": 121
   },
   {
     "id": "785674dc-40c4-484a-8eac-9cf261cbb127",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "4D659483ED89A423E516DE451B48A791",
       "F8E4A44EB29263814E334BBB4532AF5C",
+      "4D659483ED89A423E516DE451B48A791",
       "811F0EAD880465A2782EF5819606EECA"
     ],
     "players": [],
-    "fps": 59.995426,
-    "ping": 316
-  },
-  {
-    "id": "7ee748ce-d206-4144-b028-80aa82cb607a",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "9CBA4020E6F26E9A7D10FA93DE93CAE0",
-      "B5535057B4EDD378F08211175670C7AF",
-      "358671101CC293D39B66A86064C8911A"
-    ],
-    "players": [],
-    "fps": 59.97543,
-    "ping": 48
+    "fps": 59.988785,
+    "ping": 315
   },
   {
     "id": "3f1aa2de-a68e-446c-8d89-6fb27abbe205",
@@ -2732,12 +2499,25 @@
     "playing": 3,
     "playerTokens": [
       "6245BD613A51F84CE3E1235A5E9EF242",
-      "8204FB468207E40664511D7D668FBFF8",
-      "A6227DE5B8A0DB35F6524003EFE8CD2C"
+      "A6227DE5B8A0DB35F6524003EFE8CD2C",
+      "8204FB468207E40664511D7D668FBFF8"
     ],
     "players": [],
-    "fps": 59.998516,
-    "ping": 108
+    "fps": 60.002548,
+    "ping": 109
+  },
+  {
+    "id": "7ee748ce-d206-4144-b028-80aa82cb607a",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "9CBA4020E6F26E9A7D10FA93DE93CAE0",
+      "358671101CC293D39B66A86064C8911A",
+      "B5535057B4EDD378F08211175670C7AF"
+    ],
+    "players": [],
+    "fps": 59.965736,
+    "ping": 45
   },
   {
     "id": "c40b2cb3-3f62-45d5-8d98-a054fbd60837",
@@ -2749,60 +2529,47 @@
       "525E1924AAECB7F92C7C121A44B9CB0E"
     ],
     "players": [],
-    "fps": 59.991871,
-    "ping": 44
-  },
-  {
-    "id": "8c1f3209-9322-4fce-8b1b-7b8986652e7b",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "3D2D457C815E8E2940B3095C10867C57",
-      "7C59FA4B8FFB0CE09A697AC5D960CE35",
-      "9872BC2D8DEC4B0C72746C6ABB90E310"
-    ],
-    "players": [],
-    "fps": 59.984291,
-    "ping": 47
+    "fps": 59.997425,
+    "ping": 50
   },
   {
     "id": "5c13b7c2-cb75-40af-a3d0-5b3668b196ad",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "DD511E0E429C8E2761AC8D55D8A6FCB5",
       "4BF37C31F7BBDA810CC9134C9AD78BEC",
+      "DD511E0E429C8E2761AC8D55D8A6FCB5",
       "DA5F26304AF97BDD1B34D681604A94A8"
     ],
     "players": [],
-    "fps": 60.026249,
-    "ping": 43
+    "fps": 59.992851,
+    "ping": 40
   },
   {
     "id": "14c40b63-80c4-401a-a97c-bc60f637575c",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "5FF0026C90E3A6AFF9625A76209F979B",
       "875A75A13A4AF6DA2EF052DFF38A351D",
+      "5FF0026C90E3A6AFF9625A76209F979B",
       "2B5A425CF81145526CAE520F888137F5"
     ],
     "players": [],
-    "fps": 59.991547,
-    "ping": 39
+    "fps": 59.979603,
+    "ping": 38
   },
   {
     "id": "03abf892-0c0f-4bda-8e63-16a1a3e91c49",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "2829A1E15225AB769F08C609C0507FC6",
       "E828E84BF88257E222EECAAA21FAFA07",
-      "B3F19D7D9069CAC6657E0210DD0C6E96"
+      "B3F19D7D9069CAC6657E0210DD0C6E96",
+      "2829A1E15225AB769F08C609C0507FC6"
     ],
     "players": [],
-    "fps": 59.987965,
-    "ping": 38
+    "fps": 59.988132,
+    "ping": 41
   },
   {
     "id": "c35afcd6-e9ec-4e75-b883-bcbdcfeedad3",
@@ -2814,46 +2581,46 @@
       "667E6D3FF9929259AB87140E7A5C22F2"
     ],
     "players": [],
-    "fps": 59.992744,
-    "ping": 116
-  },
-  {
-    "id": "a39db884-ee11-475e-a21a-7eedba707c50",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "B34E37836BF0573AFB7BF6D581A45223",
-      "4C421348D2D545CAED121FC58B5656E4",
-      "07FDE97DD8716AA0637370653A5071C8"
-    ],
-    "players": [],
-    "fps": 59.981693,
-    "ping": 89
+    "fps": 59.999313,
+    "ping": 114
   },
   {
     "id": "f75c86d9-f237-45dc-a4c5-892579771c29",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "61D14B17F1D2F5EF196D523EB37FDD43",
       "25985F619CC7F5C5FF35EFEBF5106CCA",
-      "3A76F5C5D0F1A0D76326B4C1C3A5EB1A"
+      "3A76F5C5D0F1A0D76326B4C1C3A5EB1A",
+      "61D14B17F1D2F5EF196D523EB37FDD43"
     ],
     "players": [],
-    "fps": 59.997631,
-    "ping": 77
+    "fps": 59.998768,
+    "ping": 80
+  },
+  {
+    "id": "a3ee43aa-d0fd-4cfd-8bc7-c6640a79ac09",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "FE8452D8BF245A571071D999D2E5CB5D",
+      "0267076EB1FED0711B523D7CA13B82DD",
+      "D5C27531971C9F7F45AB78D2F6110EB4"
+    ],
+    "players": [],
+    "fps": 59.953808,
+    "ping": 47
   },
   {
     "id": "18d53c8d-1a2b-4f84-864f-f9363500fa01",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
+      "8CF00B77C5F20E7C64C2FA1EB915EE25",
       "3A2C58EFC63A92C6F307601B1C6449EA",
-      "E99DFC53AB0D73BC56770104246D2B70",
-      "8CF00B77C5F20E7C64C2FA1EB915EE25"
+      "E99DFC53AB0D73BC56770104246D2B70"
     ],
     "players": [],
-    "fps": 59.852932,
+    "fps": 59.998608,
     "ping": 32
   },
   {
@@ -2866,99 +2633,86 @@
       "40B89081B6FA6C00BD06A47120A2B2A7"
     ],
     "players": [],
-    "fps": 59.989105,
-    "ping": 134
+    "fps": 59.997665,
+    "ping": 103
+  },
+  {
+    "id": "c8a43d12-f9c3-4c4e-92dd-edd7b1f74f64",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "A12120B28195EF01B4387366E470F265",
+      "E01B809EE40419ECBC47EE5A691D29F3",
+      "D78FE135CB3FDCE9D2A8CB072049CFB2"
+    ],
+    "players": [],
+    "fps": 59.990101,
+    "ping": 61
   },
   {
     "id": "d57c7e64-5dc4-4e60-ab0e-0cd3011f1c4f",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "CCC8DF39FA0CC85EF982B50403207C36",
       "8CAC5500A4F95C5EAC6B476EB74A19D9",
+      "CCC8DF39FA0CC85EF982B50403207C36",
       "040F8EFEDB27CB545F7D8FFEB6F03EE7"
     ],
     "players": [],
-    "fps": 59.986412,
-    "ping": 216
+    "fps": 59.992519,
+    "ping": 215
   },
   {
     "id": "b9dd2606-3d3a-4324-853c-8fd4e19bd858",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "D2889AD009C487A46810D33D990E5C21",
       "14B2452B20606A36C342AEE510D13F13",
-      "1589ED0A064E4E272D49BED3836FF099"
+      "1589ED0A064E4E272D49BED3836FF099",
+      "D2889AD009C487A46810D33D990E5C21"
     ],
     "players": [],
-    "fps": 59.995327,
-    "ping": 29
-  },
-  {
-    "id": "323884d5-ec74-4bfd-813c-af7b92b70f8b",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "1A12403C8EC10BFFA4A56BB0CFF221C3",
-      "CC80669117B11298F33735A42F0062F9",
-      "8F93FEDDB41BC9035A635C22F61D802B"
-    ],
-    "players": [],
-    "fps": 59.989075,
-    "ping": 95
+    "fps": 59.996155,
+    "ping": 30
   },
   {
     "id": "ed8fc636-8f85-4e68-844d-cff691dd5b25",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "FE7FA0E4CEE3AF900774FD480BD11A9B",
+      "0FDF48AD98E77D35914983EA62990897",
       "3F294668345A06150683ECB61F3B2BDF",
-      "0FDF48AD98E77D35914983EA62990897"
+      "FE7FA0E4CEE3AF900774FD480BD11A9B"
     ],
     "players": [],
-    "fps": 59.985363,
-    "ping": 88
+    "fps": 59.990665,
+    "ping": 82
   },
   {
     "id": "83dca79e-5443-46fe-9bb4-025cbd475167",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "72240622DD7ADE7686A686BB962FF1B1",
+      "8A0D316865BBBAE030F686976AFE2FF2",
       "6B8244ECBC8251D7F0F1E6B5B93E13F8",
-      "8A0D316865BBBAE030F686976AFE2FF2"
+      "72240622DD7ADE7686A686BB962FF1B1"
     ],
     "players": [],
-    "fps": 59.985771,
-    "ping": 25
+    "fps": 59.993721,
+    "ping": 31
   },
   {
     "id": "a9c0e19d-8340-423b-ac41-13848f88ccbf",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "9681E88E0B438A39F2ABA778AB8CF289",
       "390F0B8B993C33279DC668E503D6DA4F",
-      "B8FB38DCD3D32F52627BB48229AE5E1C"
+      "B8FB38DCD3D32F52627BB48229AE5E1C",
+      "9681E88E0B438A39F2ABA778AB8CF289"
     ],
     "players": [],
-    "fps": 60.088799,
-    "ping": 66
-  },
-  {
-    "id": "6e44e108-21b8-452d-8667-622cdfe1bec2",
-    "maxPlayers": 12,
-    "playing": 3,
-    "playerTokens": [
-      "7C011333432F1AAD1C8CFF3725C95FBD",
-      "DFB3D63E2E0FB129907B026670F70CE0",
-      "9D6B1898D3D995B0EF4924D2629D5205"
-    ],
-    "players": [],
-    "fps": 59.993214,
-    "ping": 35
+    "fps": 59.973728,
+    "ping": 60
   },
   {
     "id": "9d9b97d4-6d89-40c3-96de-dc728b21d6c1",
@@ -2966,76 +2720,76 @@
     "playing": 3,
     "playerTokens": [
       "9255D6639484E4E0EE2D74186E804254",
-      "37A98A91C8641A49141808AE65AC1129",
-      "9CA63E6A02E5D25B9B548BE41CE6E10F"
+      "9CA63E6A02E5D25B9B548BE41CE6E10F",
+      "37A98A91C8641A49141808AE65AC1129"
     ],
     "players": [],
-    "fps": 59.992077,
-    "ping": 79
+    "fps": 60.00005,
+    "ping": 78
   },
   {
-    "id": "e85e0192-498d-4472-9013-c422699a68f6",
+    "id": "5521bfd5-54f9-42d5-a984-63149bf95aa0",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "AFE2CD143CA681B0D0ABC0BE0B0AC4BA",
-      "0465430C23D301BA8E329C87042176CB",
-      "C49FAA936C8D4198952CE6233A1D9C12"
+      "215BC12A725DC1B34556327528E38056",
+      "44A84B19CE80119B2CA0FF0BEB3FDFB1",
+      "6CA6A94A6072D9CDA740F9D1A2B0D01E"
     ],
     "players": [],
-    "fps": 59.987728,
-    "ping": 72
+    "fps": 60.030533,
+    "ping": 73
   },
   {
     "id": "a1d44cff-0117-4181-b67a-2d150dad350f",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
+      "1663620F05F9E499D7E5601D5C72B451",
       "0403DBA2DDE85461E46E676AFC4DF239",
-      "BE88EFD935A239C0271E9EF811497681",
-      "1663620F05F9E499D7E5601D5C72B451"
+      "BE88EFD935A239C0271E9EF811497681"
     ],
     "players": [],
-    "fps": 59.990307,
-    "ping": 49
+    "fps": 59.994957,
+    "ping": 53
   },
   {
     "id": "412fb82b-5613-4f56-af1d-188117cae979",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "E8279311817E14D7945EEB310CC98D3C",
+      "511EC9E57F9D3A89175F4C95E26F7E10",
       "40B12E694D2B052A048FF78258B2808F",
-      "511EC9E57F9D3A89175F4C95E26F7E10"
+      "E8279311817E14D7945EEB310CC98D3C"
     ],
     "players": [],
-    "fps": 60.100063,
-    "ping": 58
+    "fps": 59.98925,
+    "ping": 54
   },
   {
     "id": "d3b669d0-8ab2-48d8-825e-05d3b9506024",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "CF906506A94E32E7FCF11139B27AB97B",
       "09945D3353181D9C39C783E04ADEAA2A",
+      "CF906506A94E32E7FCF11139B27AB97B",
       "2F3C1A9EE502E6F47A75D857725EECCF"
     ],
     "players": [],
-    "fps": 59.975655,
-    "ping": 52
+    "fps": 60.00663,
+    "ping": 49
   },
   {
     "id": "c6d3af1d-2e16-4560-bd9b-9e0a87d79021",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "4A5A934F2DC9339D5D51F0DE66767FEA",
       "96FCC957055E0BEEF242A7A7FD29CAC5",
-      "BE4EE69EC852D8409C40A7B596237C19"
+      "BE4EE69EC852D8409C40A7B596237C19",
+      "4A5A934F2DC9339D5D51F0DE66767FEA"
     ],
     "players": [],
-    "fps": 59.9939,
+    "fps": 60.02113,
     "ping": 128
   },
   {
@@ -3043,82 +2797,196 @@
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "F2C54A85C772298AD8AFD96CD4D321DC",
+      "517C0B556C273A088E1BD292062E3B39",
       "5EFB09E53FEADC2637AF929B93C6FBF8",
-      "517C0B556C273A088E1BD292062E3B39"
+      "F2C54A85C772298AD8AFD96CD4D321DC"
     ],
     "players": [],
-    "fps": 59.990341,
-    "ping": 59
+    "fps": 60.098984,
+    "ping": 163
   },
   {
-    "id": "ff6c37a6-1c95-4c27-9ec1-dc26efde0af7",
+    "id": "f7c5ff12-b16c-4943-99ea-5cd3998d21f9",
     "maxPlayers": 12,
     "playing": 3,
     "playerTokens": [
-      "6BF541614728F4D1C3E1DB1635673678",
-      "66129DD65CADE2027496AF06218475E2",
-      "C89E649CDE2D5885D129329B026D884E"
+      "35CF4A4E22E7FAC6D9C5D4A2B1AC0C8C",
+      "56D64DA4B9B4E9FB509BC4296DB207C5",
+      "BA592361ADD259818B46B16682CB428B"
     ],
     "players": [],
-    "fps": 59.99791,
-    "ping": 90
+    "fps": 59.983425,
+    "ping": 63
   },
   {
-    "id": "660c2c64-ccf1-4d41-b6d2-3cdee2d2ea58",
+    "id": "239506b8-af12-479d-b826-3bd39f45ae33",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "81C2B529719E1992975B1E2FEB1F1029",
+      "EC693FE84537B74AE35C893B2DF94D2E",
+      "4A8FD13E400AED17E4CBCCFDAF792E78"
+    ],
+    "players": [],
+    "fps": 59.991554,
+    "ping": 134
+  },
+  {
+    "id": "1afecc07-f031-44c0-85e8-5d583f47fc11",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "1F8D94ACFE8E4FEF726CE567868023C2",
+      "E6F0110E2AB2A86A7E7CFCC4F09712EA",
+      "6B417D0D2207E41F9ADB53C8225AD769"
+    ],
+    "players": [],
+    "fps": 60.004169,
+    "ping": 103
+  },
+  {
+    "id": "cb204d8d-89f7-4fde-b01b-71b63d2da7a2",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "2A196302B2A68692BD69E6A82B93030C",
+      "7E30F1F84853EF82FD379C6B752D2CF7",
+      "3F5890E0DFDCCE7171DC6F407FBFE3FA"
+    ],
+    "players": [],
+    "fps": 60.037979,
+    "ping": 144
+  },
+  {
+    "id": "97656727-b90a-4dc0-b9b9-0c1cb986bf45",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "86D221C27C568B3C01B5886F5F128BE0",
+      "EE6F9B421209067C1426315036139A1B",
+      "49AE1FC6DABCF512B71E6B4E0D0BA369"
+    ],
+    "players": [],
+    "fps": 60.008232,
+    "ping": 67
+  },
+  {
+    "id": "945cec77-75d0-40b4-80d6-f503a68fc693",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "64CF319DF388D5EFCFC744AFBE07C56E",
+      "9EF3B546D2B2B98B2F027956C9D05FF5",
+      "D83EC0E156C2898B308F3E48CEF44AFB"
+    ],
+    "players": [],
+    "fps": 59.997993,
+    "ping": 83
+  },
+  {
+    "id": "8093ad82-d082-4f5d-9f29-0df32ed7aa0c",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "6D10D3BAC398E37366F4185189839AF2",
+      "31C5FDC0BB741936D1A27615E9BA231E",
+      "E29CC40C2791699A9DF7AF19D59F8725"
+    ],
+    "players": [],
+    "fps": 59.988102,
+    "ping": 88
+  },
+  {
+    "id": "28e407c0-1a65-4bbc-8e0f-c5d62ce5bc45",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "B0D2E0EBD2FEC3F64E3D73FDD0F1C8E9",
+      "6FDCB3A817E6EB45C969649211F60B61",
+      "7202DE6BBD0BCE748F3EC7E157C2F677"
+    ],
+    "players": [],
+    "fps": 59.998463,
+    "ping": 99
+  },
+  {
+    "id": "9a5f1d8f-073c-4639-9411-353bd203613a",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "EBF4C5AEE0D1FE06F7D9A0E56CE15EA9",
+      "608510E51B6467EA7B2AF0CEC6B23229",
+      "C198B8A02737A83BBE018EBEF5525DE6"
+    ],
+    "players": [],
+    "fps": 59.987896,
+    "ping": 361
+  },
+  {
+    "id": "ea5476ef-98e8-46a1-8458-b5248f46548b",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "47436132533C69CE8F6FC290C6D53F5C",
+      "374A8E3FF4555EF6AF9B10155A796066",
+      "1E1F523D98CE8EEA27933A90726A7A46"
+    ],
+    "players": [],
+    "fps": 59.996597,
+    "ping": 86
+  },
+  {
+    "id": "180cab1f-528b-45a9-b528-a3974b21a2a7",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "3C770F2CF73DB3D106E2B164A2270CDB",
+      "647A0F52D0A98DE58E02266309237556",
+      "597613660A16D7DC87261D447EC84235"
+    ],
+    "players": [],
+    "fps": 59.986996,
+    "ping": 122
+  },
+  {
+    "id": "544d7b23-6993-4def-9956-6cd287aad337",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "B31A4B37B099A2A02B2304516222CB67",
+      "98380959D2079F650D53A1FB8D59C90A",
+      "DC440A9E2235D4D17E8A0D128759BA7E"
+    ],
+    "players": [],
+    "fps": 59.982014,
+    "ping": 26
+  },
+  {
+    "id": "2943a542-4cac-4e8d-8606-cd6400a8ddcc",
+    "maxPlayers": 12,
+    "playing": 3,
+    "playerTokens": [
+      "170C8F41530CDF323AB0BE58A52FAD92",
+      "9F85ADAE1F5047A8FFAD1AEE92944545",
+      "79F860EE66CE8513E7D79CA9AEC4FF6B"
+    ],
+    "players": [],
+    "fps": 59.983704,
+    "ping": 20
+  },
+  {
+    "id": "67441f95-b738-45aa-bf5b-8c99bc4f4366",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "0045655DEE3A63A564D62A474A83CFE7",
-      "56C52D363A0A51ACA5760A51E8FD00E0",
-      "16EC608545153D2396D798111F51AEBF",
-      "23AAC38F7B92FC7E06022CBB5E46F585"
+      "B52DB84D21F6F07EEE5F175D426A7AA4",
+      "6A8AD963C6D9C13E6290F35E1209DB4D",
+      "028D805E4BBFE203D251747C77B50AFB",
+      "6DB56E64245E25E459EDDCF3437C344B"
     ],
     "players": [],
-    "fps": 59.940266,
-    "ping": 71
-  },
-  {
-    "id": "2298e01a-284e-47dc-b536-c03d4d99ed07",
-    "maxPlayers": 12,
-    "playing": 4,
-    "playerTokens": [
-      "0E3F870F32A9AC536F0F1AD059A0D4CA",
-      "39DEBA71BDB7C5129A1AE4C51C3EACA4",
-      "55933C30C42C4872ADF0D778FC88DF5C",
-      "1D14F025719EF31E3D4856ECFA140282"
-    ],
-    "players": [],
-    "fps": 59.908951,
-    "ping": 72
-  },
-  {
-    "id": "d3af3d8c-46ab-4508-a1b7-1b322e5490f1",
-    "maxPlayers": 12,
-    "playing": 4,
-    "playerTokens": [
-      "3B9BC7AEFD16053BF45AE9D97D542BD8",
-      "6F12F50909FBAACF5368917F90028E84",
-      "61A6A07927F85DCCCC402F7EFAFD90BD",
-      "C9EC5113904377CC017282E77F7E3CC4"
-    ],
-    "players": [],
-    "fps": 59.975937,
-    "ping": 24
-  },
-  {
-    "id": "f0b5b2ac-28eb-4b0d-b05e-a98cffdc0ae1",
-    "maxPlayers": 12,
-    "playing": 4,
-    "playerTokens": [
-      "F8994F69073F2018187A6BBBA7D77297",
-      "20D8928BD705ACEB768EBD6698BEDF6C",
-      "4910908ED31AFA812A02E3C695C2F8B3",
-      "6B1BF6E04AD199B0D1C15DE9C769E4FB"
-    ],
-    "players": [],
-    "fps": 59.956642,
-    "ping": 48
+    "fps": 59.981995,
+    "ping": 180
   },
   {
     "id": "8e311f67-b2f2-4820-b993-81cff35312e7",
@@ -3131,92 +2999,64 @@
       "CA35C93B221749A881AD0D4295C27920"
     ],
     "players": [],
-    "fps": 59.997807,
-    "ping": 34
+    "fps": 59.988285,
+    "ping": 31
   },
   {
-    "id": "d33a5b1d-239e-4a15-8193-8c92754c9e7e",
+    "id": "d3af3d8c-46ab-4508-a1b7-1b322e5490f1",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "8B123C1B5A3B9068BECAF2C639356732",
-      "C4C83097F08DA61B836C57D089FC618E",
-      "D2BB808902A51D5F32BEBDBA64932570",
-      "A0E493A5552C90A62E251AE5BAB440CD"
+      "61A6A07927F85DCCCC402F7EFAFD90BD",
+      "6F12F50909FBAACF5368917F90028E84",
+      "3B9BC7AEFD16053BF45AE9D97D542BD8",
+      "C9EC5113904377CC017282E77F7E3CC4"
     ],
     "players": [],
-    "fps": 59.985672,
-    "ping": 20
+    "fps": 59.99498,
+    "ping": 38
   },
   {
-    "id": "d2e55b15-1cb7-4756-b208-c8adffc88fa2",
+    "id": "f0b5b2ac-28eb-4b0d-b05e-a98cffdc0ae1",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "114F5CBFD7ACC95E0B2722ACC713383F",
-      "826B0CF8AAF097937BE431B0E9C9DAB5",
-      "A0B0DBA48B77DE9304C790EB138FFEF3",
-      "86691AA0502DBE4FA54873BFD1A4D649"
+      "20D8928BD705ACEB768EBD6698BEDF6C",
+      "F8994F69073F2018187A6BBBA7D77297",
+      "6B1BF6E04AD199B0D1C15DE9C769E4FB",
+      "4910908ED31AFA812A02E3C695C2F8B3"
     ],
     "players": [],
-    "fps": 59.979698,
-    "ping": 141
+    "fps": 60.009556,
+    "ping": 50
   },
   {
     "id": "43dd2ffb-cfe7-4ccf-94eb-dfdd2143a871",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "9122466FF9A228A8E7EC44AFA9E67074",
       "4420B9FD0F2CDD946DCD4DE523D20AD6",
       "535B71ADE3A41D5485BD90E9D26101ED",
+      "9122466FF9A228A8E7EC44AFA9E67074",
       "C92EA16C51E0E2ED53ADB7A0277EB767"
     ],
     "players": [],
-    "fps": 59.981895,
-    "ping": 72
-  },
-  {
-    "id": "9b2ad356-9c86-4ac2-b617-a14463f64ade",
-    "maxPlayers": 12,
-    "playing": 4,
-    "playerTokens": [
-      "1139BEC75C7CEFC33802CE6C60AF92E7",
-      "688F56080457535A5C138E82400CEFF0",
-      "F3C3376CC3CD610A11D716013DD54D7E",
-      "2F55D109DDCADADC14F32C4DE2F6E492"
-    ],
-    "players": [],
-    "fps": 59.987617,
-    "ping": 41
-  },
-  {
-    "id": "ad354d9c-e2cb-4192-9555-9c9fd51d1964",
-    "maxPlayers": 12,
-    "playing": 4,
-    "playerTokens": [
-      "1494E0CDFA0D3F0BB94E4FF0D5421037",
-      "BF2EAE0CF517A5B2D50BD137C4A15FAB",
-      "E14FB77CCEC3D5756A4D53D91E98CE88",
-      "F69EEC2FC1E7FC9B09499751EA8B773F"
-    ],
-    "players": [],
-    "fps": 59.997787,
-    "ping": 383
+    "fps": 60.020672,
+    "ping": 61
   },
   {
     "id": "fbab143b-eb02-4a58-84e3-957ba2e4da40",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
+      "E93CDAA21DAA8A047518E44E89E239BB",
       "6BCFE26C7A727CC2750558ED15DD0651",
-      "D57E97F4ACD7E90B3FA7C80191FCEFBF",
       "26B703549FD102BE3BDA886D94F57F1D",
-      "E93CDAA21DAA8A047518E44E89E239BB"
+      "D57E97F4ACD7E90B3FA7C80191FCEFBF"
     ],
     "players": [],
-    "fps": 59.879269,
-    "ping": 80
+    "fps": 59.998852,
+    "ping": 77
   },
   {
     "id": "50356ef3-2e77-4b2c-b7cd-7268850cd945",
@@ -3224,55 +3064,55 @@
     "playing": 4,
     "playerTokens": [
       "309986F02CED22A65CC17C174D7D2BF4",
-      "B322F6D79379696296C21A6F9028B130",
+      "664FBB469DFBA1107912D4DC1E0D5088",
       "71CD6D5504306B832BF5B6CB8CDBE886",
-      "664FBB469DFBA1107912D4DC1E0D5088"
+      "B322F6D79379696296C21A6F9028B130"
     ],
     "players": [],
-    "fps": 59.964207,
-    "ping": 21
+    "fps": 59.991554,
+    "ping": 18
   },
   {
-    "id": "4b4ce9f0-ae7a-4ac8-9400-ed50bb9b2610",
+    "id": "3fa30d05-200f-4201-abbb-d6c6dc6f3cc8",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "E897D340394674C00BED7F55E4B1221A",
-      "D9488B4D117409A4F2F788EAE8D7983B",
-      "A192F1E56531B5C4B2593F8CA538945A",
-      "AE65EEF0CFF3ABF44C91592D0DE133C2"
+      "36AD9729380EC98751E8646562F26408",
+      "5B9352EBDFB0A86F7062C8B7ABA208EB",
+      "E8CBA76E83AD3ABFA3320A9ECC061E47",
+      "CE9223C7A7EB40EA0E4BB4C3B664D563"
     ],
     "players": [],
-    "fps": 59.998058,
-    "ping": 54
+    "fps": 59.989426,
+    "ping": 234
+  },
+  {
+    "id": "b695032a-2d98-441a-b94f-b07830f60216",
+    "maxPlayers": 12,
+    "playing": 4,
+    "playerTokens": [
+      "C161F878FCBAAE8C3ADB8CCB918B46F8",
+      "6B56BFF22322B8C549789DCC93E44E40",
+      "578012C2838EE9E9E9417EB25FDEE458",
+      "5543E02AC4F654B628926F271ABA85D7"
+    ],
+    "players": [],
+    "fps": 59.992184,
+    "ping": 113
   },
   {
     "id": "fd8144c2-9d29-4f92-bb37-2e86cb1abca5",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "BA154BC68E8D0CC1CE0336385F2F822F",
       "A0DD481D847C895165B72B852D92CA3B",
-      "13A48FCA4E9AD80AB915BE97C797E1F6",
-      "523E7D3D2CA1E95232DBB17EC53FB4F2"
+      "BA154BC68E8D0CC1CE0336385F2F822F",
+      "523E7D3D2CA1E95232DBB17EC53FB4F2",
+      "13A48FCA4E9AD80AB915BE97C797E1F6"
     ],
     "players": [],
-    "fps": 59.988014,
-    "ping": 184
-  },
-  {
-    "id": "af97a5f3-c2af-4bb4-9cd3-689632728676",
-    "maxPlayers": 12,
-    "playing": 4,
-    "playerTokens": [
-      "0A38310284F4D2C585C99118EFA9AE6E",
-      "102A3BFA95A04739563C0AF3E73847EF",
-      "CDE8922908CF9EA3875B696ADBAE4069",
-      "1610067C552C62D0B008F2C80A7C8953"
-    ],
-    "players": [],
-    "fps": 59.994305,
-    "ping": 17
+    "fps": 59.989105,
+    "ping": 178
   },
   {
     "id": "7499d383-b6c6-4170-a466-85ecd040ac0d",
@@ -3280,112 +3120,139 @@
     "playing": 4,
     "playerTokens": [
       "AED3BF30B25A5C3721AE0B45390A09D7",
-      "496DF8E085BFCA1F8067DE71AF49F8DC",
       "FE696A9493471B8313C706431D49745A",
-      "B3DE4AC1A6FA8705266100B5626D2DAD"
+      "B3DE4AC1A6FA8705266100B5626D2DAD",
+      "496DF8E085BFCA1F8067DE71AF49F8DC"
     ],
     "players": [],
-    "fps": 59.995163,
-    "ping": 54
+    "fps": 59.984768,
+    "ping": 56
   },
   {
     "id": "dca7a143-5ecc-461b-9571-d63c7b33b93f",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "EF0C71761C4E51D029D6C2A3D8A09D88",
       "A964E57497E07DBF7BA00003C336EA9B",
-      "A19458671A9EC7AA369AE691E019056E",
-      "1C587C4AE67CB5AF26B6216F16C2B029"
+      "EF0C71761C4E51D029D6C2A3D8A09D88",
+      "1C587C4AE67CB5AF26B6216F16C2B029",
+      "A19458671A9EC7AA369AE691E019056E"
     ],
     "players": [],
-    "fps": 59.99073,
-    "ping": 44
+    "fps": 59.991776,
+    "ping": 66
   },
   {
     "id": "e870f559-ae2a-4eb0-88c1-ae09a25c0da6",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "753B25276BC0DD29469539B8FC284F27",
-      "438C23F81EAB907D068C195EF74B446E",
       "CAD45A4A3513B3D862C2954FB0AB7D22",
-      "D7341DBA26CD5598C7C507597EBF8B0D"
+      "D7341DBA26CD5598C7C507597EBF8B0D",
+      "753B25276BC0DD29469539B8FC284F27",
+      "438C23F81EAB907D068C195EF74B446E"
     ],
     "players": [],
-    "fps": 59.970608,
-    "ping": 31
-  },
-  {
-    "id": "c8a43d12-f9c3-4c4e-92dd-edd7b1f74f64",
-    "maxPlayers": 12,
-    "playing": 4,
-    "playerTokens": [
-      "D78FE135CB3FDCE9D2A8CB072049CFB2",
-      "0B26690430D0C1C2F8E46D44AAD3BDD4",
-      "E01B809EE40419ECBC47EE5A691D29F3",
-      "A12120B28195EF01B4387366E470F265"
-    ],
-    "players": [],
-    "fps": 59.973816,
-    "ping": 35
+    "fps": 59.886402,
+    "ping": 28
   },
   {
     "id": "da634b25-c617-4e34-b51e-cc1150d4da1e",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "30C069B66E10F84505065B7D2BD2F8DD",
       "FA6DA4D58DF3A8336C33A83D9A9CDFD0",
-      "FDE5B4DBA0987C541D1433491A1C55A9",
-      "18ECB54C1AD4ED082E50D28D59656E83"
+      "30C069B66E10F84505065B7D2BD2F8DD",
+      "18ECB54C1AD4ED082E50D28D59656E83",
+      "FDE5B4DBA0987C541D1433491A1C55A9"
     ],
     "players": [],
-    "fps": 59.987923,
-    "ping": 50
+    "fps": 59.985538,
+    "ping": 51
   },
   {
-    "id": "5521bfd5-54f9-42d5-a984-63149bf95aa0",
+    "id": "323884d5-ec74-4bfd-813c-af7b92b70f8b",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "4ECFDCD21912FB999CF74D7C566E55A5",
-      "6CA6A94A6072D9CDA740F9D1A2B0D01E",
-      "215BC12A725DC1B34556327528E38056",
-      "44A84B19CE80119B2CA0FF0BEB3FDFB1"
+      "5352C05E1B8CC9F67F9911E111B64168",
+      "1A12403C8EC10BFFA4A56BB0CFF221C3",
+      "CC80669117B11298F33735A42F0062F9",
+      "8F93FEDDB41BC9035A635C22F61D802B"
     ],
     "players": [],
-    "fps": 59.992512,
-    "ping": 56
+    "fps": 59.995182,
+    "ping": 99
+  },
+  {
+    "id": "e85e0192-498d-4472-9013-c422699a68f6",
+    "maxPlayers": 12,
+    "playing": 4,
+    "playerTokens": [
+      "C49FAA936C8D4198952CE6233A1D9C12",
+      "DB9B9D296589AB256AA3E793E1A6EA3A",
+      "0465430C23D301BA8E329C87042176CB",
+      "AFE2CD143CA681B0D0ABC0BE0B0AC4BA"
+    ],
+    "players": [],
+    "fps": 59.988083,
+    "ping": 60
   },
   {
     "id": "d6b3c60a-446c-4873-81a7-a40bb2c2dd6b",
     "maxPlayers": 12,
     "playing": 4,
     "playerTokens": [
-      "54AF0F550201F1E03A89F13379E5FD07",
       "B08DD75434E4D7DDF021F483E9536156",
-      "5F91B0D774DDDC87E39EACCB6E2CC61A",
-      "E666BFB0F09BAB7FB4A3E2719A9CF074"
+      "54AF0F550201F1E03A89F13379E5FD07",
+      "E666BFB0F09BAB7FB4A3E2719A9CF074",
+      "5F91B0D774DDDC87E39EACCB6E2CC61A"
     ],
     "players": [],
-    "fps": 59.925789,
-    "ping": 146
+    "fps": 59.990044,
+    "ping": 121
   },
   {
-    "id": "ad944fff-5d9d-4d33-b10f-2a2bdd023ec2",
+    "id": "37608d95-c387-4fa2-b613-99b497d74c6e",
     "maxPlayers": 12,
-    "playing": 5,
+    "playing": 4,
     "playerTokens": [
-      "7BEF52728F7EE352D7F8D4DED2F4EE8E",
-      "7D69B8ACE9FB9D40F6A7C5F032179AE0",
-      "BEB2FEEBD27D9028D5D0F3D02D37F73E",
-      "C4F54CA655081D3C76E004A1CD1189CD",
-      "8F64C7DA586E9E1E662FD7816A236905"
+      "49672C677DB1C249F960AB6BA64E0828",
+      "32D67FF5B1CA2197C79F2D69EB1AAC48",
+      "0A75CA8836127374F31EA3B5020769DA",
+      "04DEE7B33F2AC8A779E2D322FA76EEAD"
     ],
     "players": [],
-    "fps": 59.991711,
-    "ping": 73
+    "fps": 59.990795,
+    "ping": 20
+  },
+  {
+    "id": "660c2c64-ccf1-4d41-b6d2-3cdee2d2ea58",
+    "maxPlayers": 12,
+    "playing": 4,
+    "playerTokens": [
+      "23AAC38F7B92FC7E06022CBB5E46F585",
+      "56C52D363A0A51ACA5760A51E8FD00E0",
+      "0045655DEE3A63A564D62A474A83CFE7",
+      "16EC608545153D2396D798111F51AEBF"
+    ],
+    "players": [],
+    "fps": 59.973999,
+    "ping": 71
+  },
+  {
+    "id": "2298e01a-284e-47dc-b536-c03d4d99ed07",
+    "maxPlayers": 12,
+    "playing": 4,
+    "playerTokens": [
+      "1D14F025719EF31E3D4856ECFA140282",
+      "55933C30C42C4872ADF0D778FC88DF5C",
+      "39DEBA71BDB7C5129A1AE4C51C3EACA4",
+      "0E3F870F32A9AC536F0F1AD059A0D4CA"
+    ],
+    "players": [],
+    "fps": 59.976559,
+    "ping": 71
   },
   {
     "id": "9d495183-32a9-4589-8d8c-c770adb03c76",
@@ -3395,87 +3262,87 @@
       "224D3F1BCB4597B2A6D93D7FE0322A17",
       "5BFC785C1AB50DE698BAE7D0B43213F3",
       "927DFC0071BED11EADF94CFB4B23F430",
-      "9553F480D22318DDF8FD4F3B7E92BF7A",
-      "40210F9875C75480350E9F343D158C08"
+      "40210F9875C75480350E9F343D158C08",
+      "9553F480D22318DDF8FD4F3B7E92BF7A"
     ],
     "players": [],
-    "fps": 59.991798,
-    "ping": 29
-  },
-  {
-    "id": "67441f95-b738-45aa-bf5b-8c99bc4f4366",
-    "maxPlayers": 12,
-    "playing": 5,
-    "playerTokens": [
-      "6A8AD963C6D9C13E6290F35E1209DB4D",
-      "6DB56E64245E25E459EDDCF3437C344B",
-      "B52DB84D21F6F07EEE5F175D426A7AA4",
-      "028D805E4BBFE203D251747C77B50AFB",
-      "C90D0666B3E12800212AB7FA1056CC63"
-    ],
-    "players": [],
-    "fps": 59.987679,
-    "ping": 191
+    "fps": 60.070496,
+    "ping": 40
   },
   {
     "id": "7daac744-0cc5-48a0-bd92-339772d754dd",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
+      "A7506D76B167BBBBBDFD5FBFABFA1E08",
+      "C5F541712F8A1ACA1C83C3AD112AC6F9",
       "766FCD9FAAE21763D44051622C2D6485",
       "E8A0C1A0BC6F147A54E76887EA021DA1",
-      "4DBEA5D1FAD06BD829B9750DB8F4B946",
-      "A7506D76B167BBBBBDFD5FBFABFA1E08",
-      "C5F541712F8A1ACA1C83C3AD112AC6F9"
+      "4DBEA5D1FAD06BD829B9750DB8F4B946"
     ],
     "players": [],
-    "fps": 60.000023,
-    "ping": 34
+    "fps": 59.991539,
+    "ping": 49
+  },
+  {
+    "id": "4248f850-a41c-4a4f-9581-6c21426bd5a7",
+    "maxPlayers": 12,
+    "playing": 5,
+    "playerTokens": [
+      "1D475D47A95D545474E9D34545857ADB",
+      "3C5F3ECB0FC770678FF43731DAD6889E",
+      "4917E3CD97DCA1BB69EDB0AF3F8BA35C",
+      "5B47E4A148A6D1EC89C6E32398204DC0",
+      "5E9FB8907C58720537F1103DCC993AD7"
+    ],
+    "players": [],
+    "fps": 59.714828,
+    "ping": 88
   },
   {
     "id": "789ef8e3-8d33-435a-a878-651069f6b7d6",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
+      "D0D4CDEC220F69F8B9D0D37346B33B1B",
+      "75C32D64F23118BA4E94F5A791F7A306",
       "0FD100680ECE2A103EBB4125E9D5F5F5",
       "7039132424479C564BAEC1F6AB1732EB",
-      "D0D4CDEC220F69F8B9D0D37346B33B1B",
-      "BE33E1A3381EB3687C201D84D6960C98",
-      "75C32D64F23118BA4E94F5A791F7A306"
+      "BE33E1A3381EB3687C201D84D6960C98"
     ],
     "players": [],
-    "fps": 59.986774,
-    "ping": 55
+    "fps": 59.996868,
+    "ping": 67
   },
   {
     "id": "7a58d222-f023-4647-923a-b2b35ea95309",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
+      "D7683FE5C2C4EF31659475F73B3230B8",
       "53B9BD405C804137B4D9D5AC37FBB123",
       "CCA588A84356592750A03730A527F145",
       "84C0C84DCE7CEA76886D74031866234C",
-      "D7683FE5C2C4EF31659475F73B3230B8",
       "FF52CB497251C2D4552D48A95D7B9426"
     ],
     "players": [],
-    "fps": 59.983543,
-    "ping": 56
+    "fps": 60.003124,
+    "ping": 57
   },
   {
     "id": "097e640c-1144-447c-b4c5-0c4645e5e790",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
-      "4ECFDCD21912FB999CF74D7C566E55A5",
-      "D24F4334AEE15C9055870D2B913999D0",
+      "81149A3A920BD09A9A3E35D1C9E98924",
       "ED35B9E05238839D6D6E72D68C851B7B",
       "8F1BDABA738120B6E3558CC5178DD0FC",
-      "B04AD62AD152B0294525E42D87D39F60"
+      "B04AD62AD152B0294525E42D87D39F60",
+      "D24F4334AEE15C9055870D2B913999D0"
     ],
     "players": [],
-    "fps": 59.987835,
-    "ping": 140
+    "fps": 59.985561,
+    "ping": 121
   },
   {
     "id": "e08e5031-ea7b-43a7-b1c4-90b76575ee5f",
@@ -3483,149 +3350,134 @@
     "playing": 5,
     "playerTokens": [
       "F46AF5D069648AFAA5F7803591BA72F6",
+      "45DAAD7A2775634911FE595F8CB39844",
       "1A440995E77E238595550F13CFD9B64B",
       "9B3D29DACFE87C1F078D45504D176D36",
-      "14CA1C8B9333F8E50A7E86B77DCD0899",
-      "45DAAD7A2775634911FE595F8CB39844"
+      "14CA1C8B9333F8E50A7E86B77DCD0899"
     ],
     "players": [],
-    "fps": 59.988342,
-    "ping": 34
+    "fps": 59.882755,
+    "ping": 33
+  },
+  {
+    "id": "ad354d9c-e2cb-4192-9555-9c9fd51d1964",
+    "maxPlayers": 12,
+    "playing": 5,
+    "playerTokens": [
+      "0DB197F7F701C24A0C25D0FD7313F824",
+      "CFF2624D49FEA2B06F685ACDA7744689",
+      "81149A3A920BD09A9A3E35D1C9E98924",
+      "1290C45E86CF46E34EB7643961C2F173",
+      "F69EEC2FC1E7FC9B09499751EA8B773F"
+    ],
+    "players": [],
+    "fps": 59.979092,
+    "ping": 271
   },
   {
     "id": "4239f64d-8066-44b6-83e1-b005e33cb766",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
-      "35552C35B18346106E5B988E168AFC17",
-      "9D900F4996D19C7CC066B1823F135057",
       "356084482F8C3373B071DF6CCAD8A7BB",
+      "9D900F4996D19C7CC066B1823F135057",
+      "BCF732494F07A70106502F702A8BBBBC",
       "0C755EB35C13EAEF87FA7455C465BE5B",
-      "BCF732494F07A70106502F702A8BBBBC"
+      "35552C35B18346106E5B988E168AFC17"
     ],
     "players": [],
-    "fps": 59.991631,
-    "ping": 23
+    "fps": 59.989346,
+    "ping": 24
   },
   {
     "id": "5e92d1f2-513a-4d33-af39-846e1247bab2",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
-      "9DE83B027C4D15A491CDBCFFD706B126",
-      "39C6D886F3F20366258791F76960E8E1",
-      "295B5993EC0541F70421EA54E8ACE3AE",
       "9FF9BBF7247FE1188E96ABFA57800311",
-      "EA4BE228CADF1247D47ECDEDDFEFC192"
+      "295B5993EC0541F70421EA54E8ACE3AE",
+      "9DE83B027C4D15A491CDBCFFD706B126",
+      "EA4BE228CADF1247D47ECDEDDFEFC192",
+      "39C6D886F3F20366258791F76960E8E1"
     ],
     "players": [],
-    "fps": 59.975098,
-    "ping": 87
+    "fps": 59.987701,
+    "ping": 83
   },
   {
     "id": "81fa3b5f-3543-41be-86bd-813ec75e8fa7",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
-      "065E57E3C242EDED063B7B4419490763",
+      "A3D2F3D3557A20609A4AD1D074E39F18",
       "D449632A74BD3300A483C5DBD1327ABB",
       "33ACCC81344E90079F8E0C02D1D07A34",
-      "A3D2F3D3557A20609A4AD1D074E39F18",
-      "020FBD7EC893621F560D4A60A017DE76"
+      "020FBD7EC893621F560D4A60A017DE76",
+      "065E57E3C242EDED063B7B4419490763"
     ],
     "players": [],
-    "fps": 59.938808,
-    "ping": 96
-  },
-  {
-    "id": "b695032a-2d98-441a-b94f-b07830f60216",
-    "maxPlayers": 12,
-    "playing": 5,
-    "playerTokens": [
-      "5543E02AC4F654B628926F271ABA85D7",
-      "9F481F6EAF60E334F4FA486DA2C16A1B",
-      "C161F878FCBAAE8C3ADB8CCB918B46F8",
-      "6B56BFF22322B8C549789DCC93E44E40",
-      "578012C2838EE9E9E9417EB25FDEE458"
-    ],
-    "players": [],
-    "fps": 59.974945,
-    "ping": 127
+    "fps": 59.986271,
+    "ping": 69
   },
   {
     "id": "98ad5f10-c4de-442f-a925-930872af5fe1",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
-      "0E7BDEA8787258C27AB36520EB3DF257",
-      "1832595A3F8C7DF074DCDB287706152F",
       "2EFB9032721ECECBC66307FA39E9D461",
+      "1832595A3F8C7DF074DCDB287706152F",
+      "888B08D08A2B78F9FA0824269B7FEF7C",
       "7C8879F704C2C44B92F96B329FB8A855",
-      "888B08D08A2B78F9FA0824269B7FEF7C"
+      "0E7BDEA8787258C27AB36520EB3DF257"
     ],
     "players": [],
-    "fps": 59.986568,
-    "ping": 39
+    "fps": 59.98922,
+    "ping": 35
   },
   {
     "id": "66bbba17-f308-4525-a28b-b6f6c94273ab",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
-      "53B9BD405C804137B4D9D5AC37FBB123",
-      "98A70362BC645CDCB3DF47BD63039497",
       "BD3102238F9759E70E2F24F81B031943",
-      "355D27182203E083279A52D6F4A71AD6",
+      "1CEC52F0B92CACB1D702DD2C9FA4B49D",
+      "64CF319DF388D5EFCFC744AFBE07C56E",
+      "98A70362BC645CDCB3DF47BD63039497",
       "B153AC65301DB8D8B9C5B77B6032ADAE"
     ],
     "players": [],
-    "fps": 59.990795,
-    "ping": 96
+    "fps": 59.989632,
+    "ping": 88
   },
   {
-    "id": "37608d95-c387-4fa2-b613-99b497d74c6e",
+    "id": "9b858ac7-7c7d-4d9f-9087-21ce951b98a2",
     "maxPlayers": 12,
     "playing": 5,
     "playerTokens": [
-      "32D67FF5B1CA2197C79F2D69EB1AAC48",
-      "0A75CA8836127374F31EA3B5020769DA",
-      "0F6A1608437139E45B3DCD3D869180C7",
-      "49672C677DB1C249F960AB6BA64E0828",
-      "04DEE7B33F2AC8A779E2D322FA76EEAD"
+      "E4ED78F3A7450A97A94B563D29A2C9D1",
+      "45D73F6CD76B4F1F879B64D98F3D4330",
+      "9A42541E71B2B1A16C43DD01606562BB",
+      "BFB4BA681F8DA18E19F5CB2410306928",
+      "C2BBBB87B46C34825DE19F58406DA4E8"
     ],
     "players": [],
-    "fps": 59.997948,
-    "ping": 20
+    "fps": 59.993214,
+    "ping": 26
   },
   {
-    "id": "484b4e22-17ce-4a31-8100-3035fe751a55",
+    "id": "ad944fff-5d9d-4d33-b10f-2a2bdd023ec2",
     "maxPlayers": 12,
-    "playing": 6,
+    "playing": 5,
     "playerTokens": [
-      "8FF89571A2B19E816182C2B9DCDE9070",
-      "E5D4722B2777988018D7CBC99B4C91F6",
-      "68EC2196C89DFA0353ABA465371946B3",
-      "DBE43A1808424D2217AFD5F5353D8BD8",
-      "4370EF71357810C749BDB78A63F9B72B"
+      "C4F54CA655081D3C76E004A1CD1189CD",
+      "7D69B8ACE9FB9D40F6A7C5F032179AE0",
+      "7BEF52728F7EE352D7F8D4DED2F4EE8E",
+      "BEB2FEEBD27D9028D5D0F3D02D37F73E",
+      "8F64C7DA586E9E1E662FD7816A236905"
     ],
     "players": [],
-    "fps": 59.97287,
-    "ping": 115
-  },
-  {
-    "id": "4248f850-a41c-4a4f-9581-6c21426bd5a7",
-    "maxPlayers": 12,
-    "playing": 6,
-    "playerTokens": [
-      "3C5F3ECB0FC770678FF43731DAD6889E",
-      "1D475D47A95D545474E9D34545857ADB",
-      "5E9FB8907C58720537F1103DCC993AD7",
-      "5B47E4A148A6D1EC89C6E32398204DC0",
-      "D04A57D1FC289FCB18C7A89A43ED3A6B"
-    ],
-    "players": [],
-    "fps": 59.936916,
-    "ping": 90
+    "fps": 59.991177,
+    "ping": 70
   },
   {
     "id": "c0f73b46-5a49-497d-b1ab-3cde1dc7d500",
@@ -3633,13 +3485,28 @@
     "playing": 6,
     "playerTokens": [
       "32E70C80F0576ECBC5BBB5E37492FDC1",
-      "8E199BEBF2AB4A09EEBB75E8A67F88E4",
-      "FC3B6969521291990EEFDDAE3614A8C6",
       "9A6791E04A48EC5FCCDAF09362AA9505",
-      "76E96F69CAC059F76E04BD87E379B46E"
+      "76E96F69CAC059F76E04BD87E379B46E",
+      "1DEFE01205EADD4F4C04F36ED34D27C9",
+      "FC3B6969521291990EEFDDAE3614A8C6"
     ],
     "players": [],
-    "fps": 59.988747,
+    "fps": 59.996906,
+    "ping": 31
+  },
+  {
+    "id": "bdffe5e7-7c16-47ed-813f-7824877167dc",
+    "maxPlayers": 12,
+    "playing": 6,
+    "playerTokens": [
+      "896E8394CCB85225715BC8BF3FFB0208",
+      "B494107DFCCCFBB34733C4A4028FAF0F",
+      "247D7602FA0BB103C26DF4F1C530BBD2",
+      "AD4B4688CB4FF1E1FEEA80F1386B5E2C",
+      "9FC81A44A86D6D2628DA7409E3FEE4A4"
+    ],
+    "players": [],
+    "fps": 59.990131,
     "ping": 28
   },
   {
@@ -3647,15 +3514,15 @@
     "maxPlayers": 12,
     "playing": 6,
     "playerTokens": [
-      "07AA7DCBBFD4C2F5035DD68C35501613",
-      "8677FC05A0F16CB54A0BCF0368ABE889",
-      "7674F6A6570EEA911C3436C45572DBAF",
+      "2ED4F8DE2885037F387B7CA365BEADBF",
       "86500A7FA44FAABBF8AFD2B5B6BB0331",
-      "39CD911E5929EC0A0C713332AADCCDE0"
+      "7674F6A6570EEA911C3436C45572DBAF",
+      "39CD911E5929EC0A0C713332AADCCDE0",
+      "07AA7DCBBFD4C2F5035DD68C35501613"
     ],
     "players": [],
-    "fps": 59.955399,
-    "ping": 43
+    "fps": 60.081467,
+    "ping": 46
   },
   {
     "id": "b316c798-d4bb-425c-94a6-f3f6d0b47149",
@@ -3663,13 +3530,13 @@
     "playing": 6,
     "playerTokens": [
       "914082DA8952A77F00D14181A92820D2",
-      "21AB6E092A834F6E9AA4D89BB887E602",
       "BAE15BA5F1B08805020E2D3BEFC10B55",
-      "C513B5D0AE57E7E42393B0931B71D538",
+      "3B5FD1E919185281F0EF74FA48F7A2F3",
+      "21AB6E092A834F6E9AA4D89BB887E602",
       "5EC624527D5310CC606B74589FD09906"
     ],
     "players": [],
-    "fps": 60.037674,
+    "fps": 59.989616,
     "ping": 59
   },
   {
@@ -3677,29 +3544,179 @@
     "maxPlayers": 12,
     "playing": 6,
     "playerTokens": [
-      "841762E366C0941EECD1A3F7254E543F",
-      "2805AD094924AC047E17440435EB28F3",
-      "FD4764818D1205EDB361026363B8EFC6",
+      "360EDA4FA887114D5175061EFF27E37D",
+      "36E9BD3895D1141D711A4B3A291505AB",
       "DF711DACE2752FE32CB042C01499E7D2",
-      "360EDA4FA887114D5175061EFF27E37D"
+      "841762E366C0941EECD1A3F7254E543F",
+      "2805AD094924AC047E17440435EB28F3"
     ],
     "players": [],
-    "fps": 60.036472,
-    "ping": 52
+    "fps": 60.005314,
+    "ping": 50
   },
   {
     "id": "6419e9b6-ecdb-4a00-bc13-a9cfb1091eea",
     "maxPlayers": 12,
     "playing": 6,
     "playerTokens": [
+      "C9CAB6A3C1AC64E0F48240BD768CD48F",
+      "90699AFE3DD667C89DEE495675AFE349",
       "DF48E6E453F4EA91F802D923090FBD59",
       "B9155084CCDEE65C078C562A312F5506",
-      "708B21787FB733FB650FB1C78C083A9C",
-      "BBFCB2D5E72B11848A63F315652C61BB",
-      "90699AFE3DD667C89DEE495675AFE349"
+      "BBFCB2D5E72B11848A63F315652C61BB"
     ],
     "players": [],
-    "fps": 59.988178,
-    "ping": 84
+    "fps": 59.992184,
+    "ping": 85
+  },
+  {
+    "id": "0a04cf4b-8371-4c9a-b390-4b24f1b8f45c",
+    "maxPlayers": 12,
+    "playing": 6,
+    "playerTokens": [
+      "A68BF3B414638C5061CE9802D0D1F320",
+      "DB6A93B6273489943CB4B3A84C335044",
+      "FA53ED7B68B7C738C3C7F6FA09ED8585",
+      "0F6FE6CAF402FA6BF5FD8BB697E87371",
+      "D2E049A35EA8CD73BB9F74916D326DAC"
+    ],
+    "players": [],
+    "fps": 59.999645,
+    "ping": 44
+  },
+  {
+    "id": "09313c1a-895d-4664-8093-3e4103398047",
+    "maxPlayers": 12,
+    "playing": 6,
+    "playerTokens": [
+      "14DA8ED718C242611C45163DC3EED385",
+      "0A535BA675F981FDE4416F0CC6A786E5",
+      "369A9343214CC30BAD7FF187EC1FCBF4",
+      "6B656E2E1CC24A46F9C7C3000906FD2E",
+      "D59621CBC24F9CD4DC0F6B5A0BEEBFA9"
+    ],
+    "players": [],
+    "fps": 59.987377,
+    "ping": 41
+  },
+  {
+    "id": "484b4e22-17ce-4a31-8100-3035fe751a55",
+    "maxPlayers": 12,
+    "playing": 6,
+    "playerTokens": [
+      "DBE43A1808424D2217AFD5F5353D8BD8",
+      "9063B83F791E78C81E76DAD328363221",
+      "4370EF71357810C749BDB78A63F9B72B",
+      "68EC2196C89DFA0353ABA465371946B3",
+      "E5D4722B2777988018D7CBC99B4C91F6"
+    ],
+    "players": [],
+    "fps": 59.98605,
+    "ping": 101
+  },
+  {
+    "id": "50358170-8f88-4924-b866-806fd46e4413",
+    "maxPlayers": 12,
+    "playing": 7,
+    "playerTokens": [
+      "E16DABC0EB86EE631B4A415BFC20966B",
+      "1E3C664B2F09DD4CEC26278BB48F57DF",
+      "D4131A621539549298081002F346F710",
+      "BA63A32D3C35D98BB6D5DBA843D66ACA",
+      "A1570E4BEF673EF963C37E550C412BB3"
+    ],
+    "players": [],
+    "fps": 59.987789,
+    "ping": 81
+  },
+  {
+    "id": "5e409d87-f952-4136-a882-74220735e2f3",
+    "maxPlayers": 12,
+    "playing": 7,
+    "playerTokens": [
+      "C30DDEE277B22B65ACFDBF441A1B745B",
+      "6E4E6A01556A7342F38B6E95C1EFCD2B",
+      "409F48244A49735DEF39ECC953FF8CD9",
+      "7D13C5D3CD1550DEB73EC1F46F44DB55",
+      "B3222D615F1E85790A778403AF4CE943"
+    ],
+    "players": [],
+    "fps": 59.991524,
+    "ping": 73
+  },
+  {
+    "id": "78e5aa7a-ac37-4970-98d6-7e337b219c53",
+    "maxPlayers": 12,
+    "playing": 7,
+    "playerTokens": [
+      "23B360E721E82366F777D21F90B611EB",
+      "BAD5FCBC6425230A8E341456FAD18154",
+      "1DC635A836B00DB1DD645A8CF2DF7ECD",
+      "409ECF999AB9CAEEA2529F6916D0ADA7",
+      "26B61A0CFCD0DD64335F63DD68196467"
+    ],
+    "players": [],
+    "fps": 59.991043,
+    "ping": 87
+  },
+  {
+    "id": "feee55fd-2c49-4fad-87da-716eac9882e9",
+    "maxPlayers": 12,
+    "playing": 7,
+    "playerTokens": [
+      "67838DD49CD3C01F6868A4EE5C994B67",
+      "A20C6CE7234D0F46C61376DA28834602",
+      "70024A55CD53293FA1E25F43F4AB218B",
+      "EDA098B0B7CF8F3EB0BEF7FE86249269",
+      "547DB65CDD648B825DE6A2605FABFCBB"
+    ],
+    "players": [],
+    "fps": 59.983292,
+    "ping": 103
+  },
+  {
+    "id": "a2eec958-7458-4f4b-b7bb-b2eb8ddf3618",
+    "maxPlayers": 12,
+    "playing": 7,
+    "playerTokens": [
+      "F97D47390976E079170E7C1CFD2B00D0",
+      "8BA70FC39A38ED8141D352766F8CE793",
+      "0D465E0A22F41B04477EF066C32FFE49",
+      "88EBE3285D5542ACBE672B85C0905D97",
+      "4629FA8A7998E80EEA9D956DC37DF9DF"
+    ],
+    "players": [],
+    "fps": 59.895855,
+    "ping": 173
+  },
+  {
+    "id": "1828b59e-025f-49be-8b26-3e3281104330",
+    "maxPlayers": 12,
+    "playing": 7,
+    "playerTokens": [
+      "91A8843EA61EB4AE0A62BC68678400AC",
+      "36974E03A92B0237680EF1726E304A06",
+      "CED671193BBDA9BFA3B6994D746ED84B",
+      "F184C0F0DB8214ADFB5EDEC46221D4F2",
+      "01D460DF2E848F4825BD010947CCB11A"
+    ],
+    "players": [],
+    "fps": 59.984013,
+    "ping": 62
+  },
+  {
+    "id": "a5725fd2-3046-4178-a468-166e7c619b40",
+    "maxPlayers": 12,
+    "playing": 7,
+    "playerTokens": [
+      "9C34E68815092CB6FFC3C70F68D7C0B6",
+      "34E678D8D75DBFC5CE263A312D9CAA88",
+      "0358BD9E1823307616A83C691C54BA09",
+      "16C20E2290323B8156365F9FEA275F45",
+      "DF0FCD9EA045C6551E2DD17CE9D8D0FF"
+    ],
+    "players": [],
+    "fps": 60.011314,
+    "ping": 146
   }
 ]
